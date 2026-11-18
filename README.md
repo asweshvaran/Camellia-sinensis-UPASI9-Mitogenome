@@ -69,4 +69,4 @@ mamba activate camellia-mito-q1
 
 If you use these pipelines, alignments, structural models, or curated tables, please cite:
 
-> Asweshvaran, R.; Nalina, M.; Chandrashekara, K.N. Competitive Organellar Deconvolution, Short-Repeat Evolutionary Dynamics, Multi-Order Maximum Likelihood Phylogenomics, and Drought-Stress Bioenergetic Remodeling of the Tea Plant (*Camellia sinensis* cv. UPASI-9) Mitochondrial Transcriptome. *Plants* **2026** (Submitted).
+> Asweshvaran, R.; Nalina, M.; Chandrashekara, K.N. Competitive Organellar Deconvolution, Short-Repeat Evolutionary Dynamics, Multi-Order Maximum Likelihood Phylogenomics, and Drought-Stress Bioenergetic Remodeling of the Tea Plant (*Camellia sinensis* cv. UPASI-9) Mitochondrial Transcriptome. *Diversity* **2026** (Submitted).
