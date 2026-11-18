@@ -1,0 +1,10 @@
+Repeat_Class,Size_Range_bp,Repeat_Count,Percentage_of_Total_Repeats,Total_Sequence_bp,Percentage_of_Repeat_Sequence,Average_Length_bp,Recombination_and_Evolutionary_Mechanism
+Short Repeats (20-50 bp),20-50,333,43.0,13387,8.0,40.2,"Microhomology-mediated end joining (MMEJ), replication slippage, and genome inflation (Wang et al., 2024; Christensen, 2013)"
+Short Repeats (51-100 bp),51-100,342,44.1,23815,14.1,69.6,"Break-induced replication (BIR) hot spots, short-repeat expansion, syntenic breakpoint scrambling"
+Subtotal: All Short Repeats (<100 bp),20-100,675,87.1,37202,22.1,55.1,Primary driver of mitogenome size variation and interspecific hybridization fossil record in genus Camellia
+Intermediate Repeats (101-500 bp),101-500,96,12.4,17618,10.5,183.5,"Low-frequency non-homologous recombination, generation of candidate chimeric open reading frames (e.g. NODE_2_ORF2)"
+Intermediate Repeats (501-1000 bp),501-1000,0,0.0,0,0.0,0.0,Absent in NC_043914.1 reference architecture
+Large Repeat Pair 1 (Direct),29807,2,0.26,59614,35.4,29807.0,High-frequency reversible homologous recombination generating two autonomous subgenomic circular isoforms
+Large Repeat Pair 2 (Inverted),26965,2,0.26,53930,32.0,26965.0,High-frequency genomic inversion flipping orientation of intervening segment and maintaining multipartite dynamic network
+Subtotal: Large Repeats (>1000 bp),>1000,4,0.52,113544,67.4,28386.0,"Structural isomerization, multipartite chromosome equilibrium, and subgenomic branching in assembly graphs"
+Total Mitogenome Repeats,20-29807,775,100.0,168364,100.0,217.2,"Total repeat content comprises 23.80% of the 707,441 bp master circular mitogenome"

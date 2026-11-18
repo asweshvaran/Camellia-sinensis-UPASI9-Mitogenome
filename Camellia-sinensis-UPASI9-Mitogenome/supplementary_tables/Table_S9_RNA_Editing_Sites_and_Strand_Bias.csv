@@ -1,0 +1,994 @@
+pos,ref,alt,qual,dp,mq,alt_depth,vaf,category,is_snp,region,gene,strand,codon_pos,aa_change
+54812,C,T,228.358,283,46.6157,264,0.9850746268656716,Fixed_Homoplasmic,True,CDS,atp9,+,2,S->L (TCA->TTA)
+54842,C,T,228.418,238,51.0,222,0.9955156950672646,Fixed_Homoplasmic,True,CDS,atp9,+,2,S->L (TCA->TTA)
+54873,C,T,221.962,243,59.1234,151,0.6425531914893617,Candidate_Heteroplasmy,True,CDS,atp9,+,3,V->V (GTC->GTT)
+54874,C,T,228.307,249,59.1369,233,0.966804979253112,Fixed_Homoplasmic,True,CDS,atp9,+,1,L->F (CTT->TTT)
+54882,C,T,222.385,251,59.251,111,0.4567901234567901,Candidate_Heteroplasmy,True,CDS,atp9,+,3,S->S (TCC->TCT)
+54884,C,T,228.351,251,59.3539,238,0.9794238683127572,Fixed_Homoplasmic,True,CDS,atp9,+,2,S->L (TCG->TTG)
+54926,C,T,228.333,249,59.8512,237,0.9793388429752066,Fixed_Homoplasmic,True,CDS,atp9,+,2,S->L (TCA->TTA)
+54974,C,T,228.389,250,59.8525,242,0.9918032786885246,Fixed_Homoplasmic,True,CDS,atp9,+,2,S->L (TCG->TTG)
+54983,C,T,228.368,246,59.8468,231,0.9829787234042553,Fixed_Homoplasmic,True,CDS,atp9,+,2,P->L (CCA->CTA)
+55004,C,T,228.356,223,59.8524,206,0.9809523809523809,Fixed_Homoplasmic,True,CDS,atp9,+,2,S->L (TCA->TTA)
+55007,C,T,225.417,224,59.8558,215,1.0,Fixed_Homoplasmic,True,CDS,atp9,+,2,S->F (TCC->TTC)
+55015,C,T,228.341,254,59.8697,233,0.9789915966386554,Fixed_Homoplasmic,True,CDS,atp9,+,1,R->* (CGA->TGA)
+55031,ATT,ATTGAAGTT,222.349,247,60.0,114,0.4892703862660944,Candidate_Heteroplasmy,False,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+55035,A,C,221.623,250,60.0,108,0.47577092511013214,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+68180,G,A,221.596,265,60.0,176,0.701195219123506,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+68321,G,A,228.172,249,60.0,218,0.9396551724137931,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+68632,G,A,228.214,254,60.0,227,0.9497907949790795,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+69149,TT,TAT,228.181,247,58.5902,153,0.8360655737704918,Candidate_Heteroplasmy,False,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+69155,ATTTAATATTTTT,ATTTAATATTTTTTAATATTTTT,171.008,243,58.9511,53,0.23555555555555555,Candidate_Heteroplasmy,False,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+71785,G,T,169.891,221,60.0,101,0.4719626168224299,Candidate_Heteroplasmy,True,rRNA,rrnS,+,0,N/A
+72317,T,G,86.0478,249,59.9143,85,0.3469387755102041,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+73206,G,A,221.9,251,60.0,66,0.3316582914572864,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+74349,CGG,CGGAAAAGGG,228.309,213,60.0,178,0.8944723618090452,Fixed_Homoplasmic,False,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+85599,G,A,228.295,141,60.0,122,0.9682539682539683,Fixed_Homoplasmic,True,CDS,nad6,-,2,S->F (TCT->TTT)
+85705,G,A,228.242,283,60.0,191,0.9455445544554455,Fixed_Homoplasmic,True,CDS,nad6,-,1,P->S (CCT->TCT)
+85722,G,A,228.278,222,60.0,159,0.9636363636363636,Fixed_Homoplasmic,True,CDS,nad6,-,2,S->F (TCC->TTC)
+85977,G,A,225.417,159,60.0,128,1.0,Fixed_Homoplasmic,True,CDS,nad6,-,2,S->L (TCA->TTA)
+85999,G,A,228.317,169,60.0,130,0.9701492537313433,Fixed_Homoplasmic,True,CDS,nad6,-,1,H->Y (CAT->TAT)
+86007,G,A,228.039,177,60.0,127,0.900709219858156,Fixed_Homoplasmic,True,CDS,nad6,-,2,P->L (CCA->CTA)
+86009,G,A,221.702,178,60.0,44,0.30985915492957744,Candidate_Heteroplasmy,True,CDS,nad6,-,3,F->F (TTC->TTT)
+86024,G,A,222.403,165,60.0,72,0.5217391304347826,Candidate_Heteroplasmy,True,CDS,nad6,-,3,F->F (TTC->TTT)
+86030,G,A,25.252,168,60.0,25,0.1736111111111111,Candidate_Heteroplasmy,True,CDS,nad6,-,3,L->L (CTC->CTT)
+86065,G,A,228.143,129,60.0,107,0.9385964912280702,Fixed_Homoplasmic,True,CDS,nad6,-,1,R->C (CGC->TGC)
+86073,G,A,228.284,95,60.0,81,0.9642857142857143,Fixed_Homoplasmic,True,CDS,nad6,-,2,P->L (CCA->CTA)
+86075,G,A,221.898,95,60.0,55,0.6395348837209303,Candidate_Heteroplasmy,True,CDS,nad6,-,3,I->I (ATC->ATT)
+86078,G,A,228.272,92,60.0,83,0.9651162790697675,Fixed_Homoplasmic,True,CDS,nad6,-,3,P->P (CCC->CCT)
+86079,G,A,228.276,92,60.0,83,0.9651162790697675,Fixed_Homoplasmic,True,CDS,nad6,-,2,P->L (CCC->CTC)
+86080,G,A,228.376,92,60.0,85,0.9883720930232558,Fixed_Homoplasmic,True,CDS,nad6,-,1,P->S (CCC->TCC)
+86085,G,A,228.334,100,60.0,87,0.9775280898876404,Fixed_Homoplasmic,True,CDS,nad6,-,2,S->L (TCG->TTG)
+86142,G,A,225.417,177,60.0,138,1.0,Fixed_Homoplasmic,True,CDS,nad6,-,2,P->L (CCT->CTT)
+86239,G,A,218.027,218,60.0,145,0.9119496855345912,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+86399,G,A,196.874,82,60.0,14,0.21875,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+86858,G,A,228.354,134,60.0,104,0.9811320754716981,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+86863,G,A,228.4,140,60.0,108,0.9908256880733946,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+86872,G,A,225.417,152,60.0,108,1.0,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+86923,G,A,228.266,182,59.8722,129,0.9699248120300752,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+86938,G,A,218.615,183,59.8712,117,0.8863636363636364,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+86948,G,A,228.252,167,59.8702,127,0.9694656488549618,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+86959,G,A,228.402,143,60.0,120,0.9917355371900827,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+87033,G,A,218.067,144,57.6881,99,0.908256880733945,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+87079,G,A,191.562,105,49.0353,24,0.2823529411764706,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+87088,G,A,206.511,113,45.3182,24,0.2727272727272727,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+87680,G,A,228.011,181,48.7426,124,0.9117647058823529,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+87689,G,A,228.121,191,50.5315,134,0.9370629370629371,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+87709,G,A,228.194,217,54.6731,148,0.9487179487179487,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+87740,G,A,228.283,229,58.2857,149,0.9675324675324676,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+117943,C,A,159.02,25,60.0,5,0.2631578947368421,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+117955,G,A,97.6001,25,60.0,5,0.2631578947368421,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+117962,C,T,136.124,28,60.0,7,0.3684210526315789,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+118704,C,T,225.421,46,59.3714,35,1.0,Fixed_Homoplasmic,True,CDS,nad5,+,2,P->L (CCC->CTC)
+118764,C,T,228.3,64,60.0,44,0.9777777777777777,Fixed_Homoplasmic,True,CDS,nad5,+,2,T->I (ACC->ATC)
+118782,C,T,228.362,75,60.0,58,0.9830508474576272,Fixed_Homoplasmic,True,CDS,nad5,+,2,P->L (CCG->CTG)
+118794,C,T,225.417,80,60.0,65,1.0,Fixed_Homoplasmic,True,CDS,nad5,+,2,S->L (TCA->TTA)
+118803,C,T,225.417,79,60.0,66,1.0,Fixed_Homoplasmic,True,CDS,nad5,+,2,S->F (TCT->TTT)
+118824,C,T,228.338,91,60.0,71,0.9861111111111112,Fixed_Homoplasmic,True,CDS,nad5,+,2,P->L (CCC->CTC)
+118879,C,T,210.214,99,60.0,22,0.2894736842105263,Candidate_Heteroplasmy,True,CDS,nad5,+,3,L->L (CTC->CTT)
+119057,A,C,222.391,122,60.0,43,0.524390243902439,Candidate_Heteroplasmy,True,CDS,nad5,+,1,K->Q (AAA->CAA)
+119101,G,A,222.405,30,60.0,9,0.5,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+119107,G,A,192.4,31,60.0,10,0.5555555555555556,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+119110,C,T,77.4171,31,60.0,4,0.23529411764705882,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+119117,T,C,222.258,31,60.0,9,0.5294117647058824,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+119119,G,A,222.206,31,60.0,9,0.6,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+120067,G,A,125.04,21,60.0,7,0.4117647058823529,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+120246,C,T,228.341,113,58.6526,93,0.9789473684210527,Fixed_Homoplasmic,True,CDS,nad5,+,2,S->F (TCT->TTT)
+120248,C,T,228.342,112,58.6383,92,0.9787234042553191,Fixed_Homoplasmic,True,CDS,nad5,+,1,R->C (CGT->TGT)
+120288,C,T,228.346,132,59.8971,66,0.9705882352941176,Fixed_Homoplasmic,True,CDS,nad5,+,2,S->L (TCG->TTG)
+120300,G,T,98.3412,128,59.8986,7,0.10144927536231885,Candidate_Heteroplasmy,True,CDS,nad5,+,2,W->L (TGG->TTG)
+120883,C,T,228.174,79,51.3478,44,0.9565217391304348,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+120886,C,G,222.38,79,51.3478,25,0.5434782608695652,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+120899,T,G,222.406,66,51.3488,24,0.5581395348837209,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+120900,G,A,228.143,66,51.3488,41,0.9534883720930233,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+120907,A,T,228.143,64,51.1429,40,0.9523809523809523,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+120910,A,C,228.14,64,51.1429,40,0.9523809523809523,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+120914,G,A,228.142,64,51.1429,40,0.9523809523809523,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+122329,G,A,217.681,48,60.0,22,0.88,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+122350,T,C,217.472,42,60.0,21,0.875,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+124935,G,A,56.4444,249,60.0,51,0.21888412017167383,Candidate_Heteroplasmy,True,rRNA,rrnL,-,0,N/A
+125123,TCTAAA,TCTAAAACTAAA,222.406,249,59.9174,103,0.4256198347107438,Candidate_Heteroplasmy,False,rRNA,rrnL,-,0,N/A
+126907,C,CAATCCACAACAA,222.225,227,60.0,105,0.5023923444976076,Candidate_Heteroplasmy,False,rRNA,rrnL,-,0,N/A
+126908,C,A,221.84,218,60.0,49,0.34265734265734266,Candidate_Heteroplasmy,True,rRNA,rrnL,-,0,N/A
+138085,G,A,228.125,215,60.0,150,0.9375,Fixed_Homoplasmic,True,CDS,cox2,-,1,R->W (CGG->TGG)
+138129,G,A,228.106,240,60.0,166,0.9431818181818182,Fixed_Homoplasmic,True,CDS,cox2,-,2,T->M (ACG->ATG)
+138195,G,A,219.114,198,60.0,143,0.89937106918239,Fixed_Homoplasmic,True,CDS,cox2,-,2,S->L (TCG->TTG)
+138246,G,A,228.191,208,60.0,154,0.9506172839506173,Fixed_Homoplasmic,True,CDS,cox2,-,2,S->L (TCA->TTA)
+138270,G,A,228.2,212,60.0,161,0.9415204678362573,Fixed_Homoplasmic,True,CDS,cox2,-,2,P->L (CCT->CTT)
+138283,G,A,228.301,192,60.0,157,0.9751552795031055,Fixed_Homoplasmic,True,CDS,cox2,-,1,P->S (CCT->TCT)
+138351,G,A,228.222,203,60.0,139,0.952054794520548,Fixed_Homoplasmic,True,CDS,cox2,-,2,S->L (TCA->TTA)
+138366,G,A,228.223,202,60.0,136,0.9577464788732394,Fixed_Homoplasmic,True,CDS,cox2,-,2,P->L (CCA->CTA)
+138384,G,A,228.358,185,59.617,138,0.9787234042553191,Fixed_Homoplasmic,True,CDS,cox2,-,2,T->M (ACG->ATG)
+138448,G,A,228.406,207,59.6805,168,0.9940828402366864,Fixed_Homoplasmic,True,CDS,cox2,-,1,R->W (CGG->TGG)
+138549,G,A,228.375,190,60.0,146,0.9864864864864865,Fixed_Homoplasmic,True,CDS,cox2,-,2,P->L (CCG->CTG)
+138574,G,A,228.354,203,60.0,153,0.9807692307692307,Fixed_Homoplasmic,True,CDS,cox2,-,1,R->W (CGG->TGG)
+138619,G,A,29.8126,167,59.7971,17,0.12318840579710146,Candidate_Heteroplasmy,True,CDS,cox2,-,1,P->S (CCA->TCA)
+138664,G,A,228.152,124,60.0,95,0.9405940594059405,Fixed_Homoplasmic,True,CDS,cox2,-,1,R->W (CGG->TGG)
+138666,G,A,228.156,126,60.0,97,0.941747572815534,Fixed_Homoplasmic,True,CDS,cox2,-,2,S->L (TCA->TTA)
+138756,G,A,228.337,142,60.0,110,0.9821428571428571,Fixed_Homoplasmic,True,CDS,cox2,-,2,S->F (TCT->TTT)
+138789,G,A,228.064,148,60.0,104,0.9043478260869565,Fixed_Homoplasmic,True,CDS,cox2,-,2,P->L (CCT->CTT)
+138800,G,A,159.984,153,60.0,21,0.1810344827586207,Candidate_Heteroplasmy,True,CDS,cox2,-,3,L->L (CTC->CTT)
+139119,T,G,225.417,55,60.0,40,1.0,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+147598,TC,T,56.2835,21,58.9231,4,0.3076923076923077,Candidate_Heteroplasmy,False,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+180796,C,T,222.382,131,60.0,38,0.4523809523809524,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+180862,C,T,228.385,104,60.0,81,0.9878048780487805,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+180962,C,T,222.346,98,60.0,35,0.5147058823529411,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+180991,C,T,228.337,82,60.0,59,0.9672131147540983,Fixed_Homoplasmic,True,CDS,nad2,+,2,S->F (TCC->TTC)
+181434,A,T,221.627,29,58.75,9,0.5625,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+182283,C,T,228.278,25,60.0,19,0.95,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+182413,C,T,220.351,78,60.0,49,0.8166666666666667,Candidate_Heteroplasmy,True,CDS,nad2,+,1,L->F (CTT->TTT)
+182493,C,T,221.74,79,60.0,20,0.32786885245901637,Candidate_Heteroplasmy,True,CDS,nad2,+,3,F->F (TTC->TTT)
+182498,C,T,228.209,76,60.0,50,0.9259259259259259,Fixed_Homoplasmic,True,CDS,nad2,+,2,S->F (TCT->TTT)
+182501,C,T,228.123,75,60.0,52,0.9122807017543859,Fixed_Homoplasmic,True,CDS,nad2,+,2,S->F (TCC->TTC)
+182505,A,C,70.1787,76,60.0,7,0.1206896551724138,Candidate_Heteroplasmy,True,CDS,nad2,+,3,E->D (GAA->GAC)
+182525,C,T,228.33,92,60.0,65,0.9701492537313433,Fixed_Homoplasmic,True,CDS,nad2,+,2,S->F (TCT->TTT)
+182531,C,T,228.299,93,60.0,65,0.9701492537313433,Fixed_Homoplasmic,True,CDS,nad2,+,2,S->F (TCC->TTC)
+182546,C,T,228.354,92,60.0,70,0.9859154929577465,Fixed_Homoplasmic,True,CDS,nad2,+,2,P->L (CCA->CTA)
+182557,C,T,228.192,95,60.0,64,0.9411764705882353,Fixed_Homoplasmic,True,CDS,nad2,+,1,R->C (CGC->TGC)
+182560,A,G,53.5152,97,60.0,7,0.10294117647058823,Candidate_Heteroplasmy,True,CDS,nad2,+,1,S->G (AGT->GGT)
+182584,C,T,228.295,100,60.0,68,0.9577464788732394,Fixed_Homoplasmic,True,CDS,nad2,+,1,H->Y (CAT->TAT)
+182591,C,T,228.334,102,60.0,67,0.9710144927536232,Fixed_Homoplasmic,True,CDS,nad2,+,2,S->L (TCA->TTA)
+182618,C,T,228.374,104,60.0,64,0.9846153846153847,Fixed_Homoplasmic,True,CDS,nad2,+,2,P->L (CCT->CTT)
+182687,C,T,228.308,79,60.0,67,0.9710144927536232,Fixed_Homoplasmic,True,CDS,nad2,+,2,S->L (TCG->TTG)
+182965,ATCTTTC,A,222.123,54,60.0,23,0.5,Candidate_Heteroplasmy,False,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+191847,T,G,228.303,45,59.1667,23,0.9583333333333334,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+191869,C,T,222.328,49,58.75,14,0.5,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+195762,T,G,219.177,75,60.0,39,0.8478260869565217,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+195838,C,CAATT,219.194,52,60.0,42,0.8571428571428571,Fixed_Homoplasmic,False,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+195929,G,A,83.1214,73,60.0,6,0.11764705882352941,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+196019,G,A,220.306,42,60.0,27,0.7941176470588235,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+196108,A,AGTTCC,222.225,21,60.0,15,0.7142857142857143,Candidate_Heteroplasmy,False,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+196252,G,T,221.915,258,60.0,140,0.6481481481481481,Candidate_Heteroplasmy,True,CDS,rps12,-,3,S->S (TCC->TCA)
+196313,G,A,225.417,300,60.0,257,1.0,Fixed_Homoplasmic,True,CDS,rps12,-,2,S->F (TCC->TTC)
+196328,G,A,225.417,311,60.0,268,1.0,Fixed_Homoplasmic,True,CDS,rps12,-,2,S->L (TCG->TTG)
+196376,G,A,228.171,237,60.0,189,0.9356435643564357,Fixed_Homoplasmic,True,CDS,rps12,-,2,S->L (TCG->TTG)
+196401,G,A,225.422,252,60.0,236,1.0,Fixed_Homoplasmic,True,CDS,rps12,-,1,H->Y (CAC->TAC)
+196493,G,A,228.341,255,60.0,231,0.9788135593220338,Fixed_Homoplasmic,True,CDS,rps12,-,2,P->L (CCG->CTG)
+196497,G,A,228.343,254,60.0,232,0.9830508474576272,Fixed_Homoplasmic,True,CDS,rps12,-,1,R->C (CGC->TGC)
+196526,G,A,228.393,253,60.0,233,0.9914893617021276,Fixed_Homoplasmic,True,CDS,rps12,-,2,S->L (TCG->TTG)
+196641,T,G,222.081,251,60.0,140,0.6334841628959276,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+196642,A,T,222.111,250,60.0,141,0.6380090497737556,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+196653,G,A,228.39,252,60.0,222,0.9910714285714286,Fixed_Homoplasmic,True,CDS,nad3,-,1,R->W (CGG->TGG)
+196658,G,A,228.376,248,60.0,218,0.9864253393665159,Fixed_Homoplasmic,True,CDS,nad3,-,2,S->L (TCG->TTG)
+196685,G,A,228.373,248,59.9103,220,0.9865470852017937,Fixed_Homoplasmic,True,CDS,nad3,-,2,S->F (TCT->TTT)
+196727,G,A,228.242,220,60.0,186,0.9538461538461539,Fixed_Homoplasmic,True,CDS,nad3,-,2,S->F (TCT->TTT)
+196736,G,A,228.241,232,60.0,187,0.9444444444444444,Fixed_Homoplasmic,True,CDS,nad3,-,2,P->L (CCG->CTG)
+196751,G,A,228.281,248,60.0,198,0.9565217391304348,Fixed_Homoplasmic,True,CDS,nad3,-,2,P->L (CCC->CTC)
+196755,G,A,228.252,245,60.0,193,0.946078431372549,Fixed_Homoplasmic,True,CDS,nad3,-,1,P->S (CCT->TCT)
+196772,G,A,228.248,244,60.0,193,0.946078431372549,Fixed_Homoplasmic,True,CDS,nad3,-,2,S->F (TCC->TTC)
+196787,G,A,228.268,247,60.0,202,0.957345971563981,Fixed_Homoplasmic,True,CDS,nad3,-,2,P->L (CCG->CTG)
+196793,G,A,228.4,242,60.0,205,0.9903381642512077,Fixed_Homoplasmic,True,CDS,nad3,-,2,P->L (CCT->CTT)
+196794,G,A,228.417,242,60.0,206,0.9903846153846154,Fixed_Homoplasmic,True,CDS,nad3,-,1,P->S (CCT->TCT)
+196856,G,A,228.302,248,60.0,214,0.9683257918552036,Fixed_Homoplasmic,True,CDS,nad3,-,2,S->F (TCC->TTC)
+196922,G,A,228.109,242,59.5117,195,0.9154929577464789,Fixed_Homoplasmic,True,CDS,nad3,-,2,P->L (CCA->CTA)
+196940,G,A,228.149,226,60.0,188,0.94,Fixed_Homoplasmic,True,CDS,nad3,-,2,P->L (CCA->CTA)
+196941,G,A,228.103,223,60.0,186,0.93,Fixed_Homoplasmic,True,CDS,nad3,-,1,P->S (CCA->TCA)
+196958,G,A,228.37,241,60.0,205,0.9855769230769231,Fixed_Homoplasmic,True,CDS,nad3,-,2,P->L (CCG->CTG)
+196963,G,A,221.337,250,60.0,57,0.2676056338028169,Candidate_Heteroplasmy,True,CDS,nad3,-,3,I->I (ATC->ATT)
+196997,G,A,228.259,204,60.0,153,0.9622641509433962,Fixed_Homoplasmic,True,CDS,nad3,-,2,S->L (TCA->TTA)
+197078,ATTTTTTTTT,ATTTTTTTTTT,222.182,214,59.8701,81,0.525974025974026,Candidate_Heteroplasmy,False,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+197149,CC,CCCTAAGAC,221.259,224,60.0,121,0.6142131979695431,Candidate_Heteroplasmy,False,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+197164,T,G,220.747,197,60.0,118,0.7763157894736842,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+197320,G,A,220.757,126,60.0,22,0.22,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+197337,G,A,214.73,111,60.0,20,0.22727272727272727,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+197423,GTCCGTTAT,G,228.122,66,60.0,48,0.9056603773584906,Fixed_Homoplasmic,False,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+197466,T,TGTTGC,228.15,68,60.0,45,0.9375,Fixed_Homoplasmic,False,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+197660,G,T,228.198,39,60.0,35,0.9459459459459459,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+197932,GAAAAAAA,GAAAAAAAA,160.371,56,59.5686,20,0.39215686274509803,Candidate_Heteroplasmy,False,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+198303,T,C,200.734,50,57.5854,30,0.7317073170731707,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+198311,T,TG,195.682,48,60.0,29,0.7073170731707317,Candidate_Heteroplasmy,False,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+211678,G,T,228.374,119,49.7812,63,0.984375,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+212697,G,T,225.417,48,59.6071,28,1.0,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+212725,T,C,61.0191,33,60.0,20,0.9523809523809523,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+212727,G,T,73.4149,32,60.0,21,1.0,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+212759,G,T,225.417,29,60.0,19,1.0,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+212761,G,T,225.417,29,60.0,19,1.0,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+212765,C,A,225.417,29,60.0,23,1.0,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+212773,A,G,225.417,29,60.0,22,1.0,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+238311,C,G,221.499,29,56.0,11,0.6875,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+238313,G,A,221.515,29,56.0,11,0.6875,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+238314,G,A,221.437,29,56.0,11,0.6875,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+238317,G,A,221.426,29,56.0,11,0.6875,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+239519,G,A,222.393,36,60.0,14,0.5,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+239615,G,A,221.783,57,60.0,10,0.2702702702702703,Candidate_Heteroplasmy,True,CDS,rps1,-,2,P->L (CCC->CTC)
+239616,G,A,37.913,57,60.0,4,0.10810810810810811,Candidate_Heteroplasmy,True,CDS,rps1,-,1,P->S (CCC->TCC)
+239749,G,A,220.214,40,60.0,27,0.7941176470588235,Candidate_Heteroplasmy,True,CDS,rps1,-,3,V->V (GTC->GTT)
+239854,G,A,192.452,38,59.0357,26,0.9285714285714286,Fixed_Homoplasmic,True,CDS,rps1,-,3,S->S (TCC->TCT)
+239984,G,A,225.417,31,60.0,23,1.0,Fixed_Homoplasmic,True,CDS,rps1,-,2,S->F (TCC->TTC)
+240035,G,A,218.34,38,60.0,27,0.9,Fixed_Homoplasmic,True,CDS,rps1,-,2,P->L (CCT->CTT)
+240068,G,A,222.357,50,60.0,19,0.5757575757575758,Candidate_Heteroplasmy,True,CDS,rps1,-,2,P->L (CCT->CTT)
+240416,G,A,222.405,27,60.0,10,0.47619047619047616,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+240504,G,A,222.399,28,60.0,8,0.4444444444444444,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+240545,G,A,221.963,29,60.0,16,0.7272727272727273,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+240595,G,A,65.1386,38,60.0,6,0.2,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+240604,G,A,222.391,38,60.0,15,0.5,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+240808,G,A,228.247,24,60.0,21,0.9545454545454546,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+254546,C,T,40.9092,26,60.0,5,0.29411764705882354,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+254561,G,A,120.916,23,60.0,5,0.29411764705882354,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+254582,C,T,126.211,22,60.0,7,0.4375,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+254613,T,G,208.406,21,60.0,8,0.4444444444444444,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+254650,T,C,25.171,78,59.2653,7,0.14285714285714285,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+258924,A,C,228.235,32,48.625,15,0.9375,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+259500,A,G,225.417,247,60.0,242,1.0,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+260438,C,CAGGAAAA,228.236,249,60.0,195,0.7959183673469388,Candidate_Heteroplasmy,False,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+260761,T,G,122.846,250,59.952,193,0.772,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+261550,A,T,222.159,247,60.0,89,0.3723849372384937,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+271978,G,A,223.163,47,60.0,28,0.9333333333333333,Fixed_Homoplasmic,True,CDS,nad1,-,1,R->W (CGG->TGG)
+271997,G,A,222.05,47,60.0,19,0.59375,Candidate_Heteroplasmy,True,CDS,nad1,-,3,F->F (TTC->TTT)
+272008,G,A,228.318,50,60.0,30,0.967741935483871,Fixed_Homoplasmic,True,CDS,nad1,-,1,R->W (CGG->TGG)
+272083,G,A,56.0774,57,60.0,6,0.14634146341463414,Candidate_Heteroplasmy,True,CDS,nad1,-,1,L->F (CTT->TTT)
+272104,G,A,225.417,62,60.0,40,1.0,Fixed_Homoplasmic,True,CDS,nad1,-,1,R->W (CGG->TGG)
+272151,G,A,225.417,66,59.6591,44,1.0,Fixed_Homoplasmic,True,CDS,nad1,-,2,P->L (CCG->CTG)
+272163,G,A,225.417,43,59.4444,27,1.0,Fixed_Homoplasmic,True,CDS,nad1,-,2,P->L (CCA->CTA)
+272166,G,A,228.28,41,59.4444,26,0.9629629629629629,Fixed_Homoplasmic,True,CDS,nad1,-,2,S->F (TCT->TTT)
+272172,G,A,225.417,41,59.4412,34,1.0,Fixed_Homoplasmic,True,CDS,nad1,-,2,S->L (TCG->TTG)
+272181,G,A,228.197,41,59.4062,30,0.9375,Fixed_Homoplasmic,True,CDS,nad1,-,2,P->L (CCA->CTA)
+272400,C,G,93.3087,29,58.4,4,0.2,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+272430,CG,CGCTTG,188.214,21,60.0,9,0.47368421052631576,Candidate_Heteroplasmy,False,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+272573,T,C,143.087,55,60.0,11,0.3333333333333333,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+272603,T,C,222.398,54,60.0,16,0.4,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+272607,G,A,221.982,55,60.0,11,0.2682926829268293,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+272621,T,C,135.332,66,60.0,7,0.13725490196078433,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+272624,C,T,222.374,68,60.0,17,0.3333333333333333,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+272634,G,A,222.218,64,60.0,16,0.32,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+272646,C,A,222.29,63,60.0,19,0.37254901960784315,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+272655,A,C,222.071,63,60.0,16,0.3137254901960784,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+272858,G,A,218.842,24,60.0,19,0.8636363636363636,Fixed_Homoplasmic,True,CDS,matR,-,2,P->L (CCA->CTA)
+272897,G,A,219.918,30,60.0,24,0.9230769230769231,Fixed_Homoplasmic,True,CDS,matR,-,2,P->L (CCG->CTG)
+272916,A,G,222.269,60,60.0,16,0.32653061224489793,Candidate_Heteroplasmy,True,CDS,matR,-,1,W->R (TGG->CGG)
+272934,C,T,222.317,83,59.9273,20,0.36363636363636365,Candidate_Heteroplasmy,True,CDS,matR,-,1,V->I (GTC->ATC)
+272950,G,A,222.406,81,60.0,26,0.5,Candidate_Heteroplasmy,True,CDS,matR,-,3,Y->Y (TAC->TAT)
+272962,G,A,221.967,79,60.0,18,0.3333333333333333,Candidate_Heteroplasmy,True,CDS,matR,-,3,R->R (CGC->CGT)
+272964,G,A,222.023,78,60.0,20,0.37037037037037035,Candidate_Heteroplasmy,True,CDS,matR,-,1,R->C (CGC->TGC)
+272984,G,A,222.277,66,60.0,21,0.40384615384615385,Candidate_Heteroplasmy,True,CDS,matR,-,2,P->L (CCT->CTT)
+273004,G,A,155.424,42,60.0,10,0.3333333333333333,Candidate_Heteroplasmy,True,CDS,matR,-,3,S->S (TCC->TCT)
+273005,G,A,220.043,44,60.0,24,0.8,Candidate_Heteroplasmy,True,CDS,matR,-,2,S->F (TCC->TTC)
+273139,G,A,222.382,31,60.0,12,0.46153846153846156,Candidate_Heteroplasmy,True,CDS,matR,-,3,P->P (CCC->CCT)
+273142,G,A,166.157,31,60.0,11,0.4230769230769231,Candidate_Heteroplasmy,True,CDS,matR,-,3,F->F (TTC->TTT)
+273258,G,GTTGAAC,175.268,22,60.0,8,0.5,Candidate_Heteroplasmy,False,CDS,matR,-,1,N/A
+273289,A,T,138.873,28,60.0,7,0.3181818181818182,Candidate_Heteroplasmy,True,CDS,matR,-,3,H->Q (CAT->CAA)
+273316,C,T,214.045,36,60.0,7,0.25,Candidate_Heteroplasmy,True,CDS,matR,-,3,Q->Q (CAG->CAA)
+273349,G,A,143.302,36,60.0,7,0.25925925925925924,Candidate_Heteroplasmy,True,CDS,matR,-,3,S->S (AGC->AGT)
+273362,C,G,117.94,41,60.0,7,0.21875,Candidate_Heteroplasmy,True,CDS,matR,-,2,S->T (AGT->ACT)
+273904,A,C,110.309,33,58.7619,12,0.5714285714285714,Candidate_Heteroplasmy,True,CDS,matR,-,3,I->M (ATT->ATG)
+273928,ATTATTA,ATTATTAATTTATTA,215.106,35,58.3158,12,0.631578947368421,Candidate_Heteroplasmy,False,CDS,matR,-,3,N/A
+273944,C,T,220.247,25,57.0588,10,0.5882352941176471,Candidate_Heteroplasmy,True,CDS,matR,-,2,R->K (AGA->AAA)
+274259,G,A,221.101,25,60.0,12,0.8,Candidate_Heteroplasmy,True,CDS,matR,-,2,S->L (TCG->TTG)
+274346,G,A,222.244,23,60.0,11,0.5789473684210527,Candidate_Heteroplasmy,True,CDS,matR,-,2,P->L (CCA->CTA)
+274525,G,A,168.267,27,60.0,8,0.36363636363636365,Candidate_Heteroplasmy,True,CDS,matR,-,3,F->F (TTC->TTT)
+274629,G,A,220.339,24,60.0,13,0.7647058823529411,Candidate_Heteroplasmy,True,CDS,matR,-,1,P->S (CCC->TCC)
+275370,G,A,225.417,29,39.0385,26,1.0,Fixed_Homoplasmic,True,CDS,nad1,-,2,S->F (TCT->TTT)
+275379,G,A,228.173,31,34.1071,27,0.9642857142857143,Fixed_Homoplasmic,True,CDS,nad1,-,2,S->F (TCT->TTT)
+295880,C,T,219.74,49,60.0,36,0.8780487804878049,Fixed_Homoplasmic,True,CDS,ccmFn,+,2,P->L (CCG->CTG)
+295940,C,T,219.174,68,60.0,40,0.8695652173913043,Fixed_Homoplasmic,True,CDS,ccmFn,+,2,P->L (CCT->CTT)
+295968,C,T,27.3374,51,60.0,7,0.15555555555555556,Candidate_Heteroplasmy,True,CDS,ccmFn,+,3,F->F (TTC->TTT)
+295979,C,T,218.232,46,60.0,38,0.926829268292683,Fixed_Homoplasmic,True,CDS,ccmFn,+,2,S->L (TCG->TTG)
+295984,C,T,218.736,46,60.0,37,0.9024390243902439,Fixed_Homoplasmic,True,CDS,ccmFn,+,1,R->C (CGT->TGT)
+295993,C,T,219.237,46,60.0,36,0.9,Fixed_Homoplasmic,True,CDS,ccmFn,+,1,P->S (CCT->TCT)
+296090,C,T,220.037,68,60.0,53,0.9298245614035088,Fixed_Homoplasmic,True,CDS,ccmFn,+,2,S->L (TCA->TTA)
+296098,C,T,223.416,68,60.0,52,0.9285714285714286,Fixed_Homoplasmic,True,CDS,ccmFn,+,1,R->W (CGG->TGG)
+296125,C,T,218.918,72,60.0,53,0.8983050847457628,Fixed_Homoplasmic,True,CDS,ccmFn,+,1,L->F (CTT->TTT)
+296214,C,T,222.357,78,60.0,32,0.5517241379310345,Candidate_Heteroplasmy,True,CDS,ccmFn,+,3,F->F (TTC->TTT)
+296401,C,T,124.298,34,60.0,8,0.25806451612903225,Candidate_Heteroplasmy,True,CDS,ccmFn,+,1,P->S (CCT->TCT)
+296549,C,T,228.211,56,60.0,42,0.9545454545454546,Fixed_Homoplasmic,True,CDS,ccmFn,+,2,P->L (CCT->CTT)
+296558,C,T,228.21,58,60.0,42,0.9545454545454546,Fixed_Homoplasmic,True,CDS,ccmFn,+,2,S->L (TCA->TTA)
+296596,C,T,228.171,71,60.0,48,0.9230769230769231,Fixed_Homoplasmic,True,CDS,ccmFn,+,1,R->C (CGT->TGT)
+296618,C,T,228.351,63,60.0,49,0.98,Fixed_Homoplasmic,True,CDS,ccmFn,+,2,S->L (TCA->TTA)
+296630,C,T,228.211,64,60.0,47,0.9591836734693877,Fixed_Homoplasmic,True,CDS,ccmFn,+,2,P->L (CCA->CTA)
+296645,C,T,228.269,62,60.0,48,0.96,Fixed_Homoplasmic,True,CDS,ccmFn,+,2,S->L (TCA->TTA)
+296794,C,T,218.178,46,60.0,38,0.926829268292683,Fixed_Homoplasmic,True,CDS,ccmFn,+,1,R->C (CGC->TGC)
+296900,G,A,218.035,40,60.0,11,0.3235294117647059,Candidate_Heteroplasmy,True,CDS,ccmFn,+,2,R->K (AGA->AAA)
+296905,C,T,195.829,40,60.0,10,0.30303030303030304,Candidate_Heteroplasmy,True,CDS,ccmFn,+,1,L->L (CTG->TTG)
+296922,G,T,97.9267,32,60.0,6,0.2222222222222222,Candidate_Heteroplasmy,True,CDS,ccmFn,+,3,R->R (CGG->CGT)
+296924,G,A,85.8065,32,60.0,5,0.19230769230769232,Candidate_Heteroplasmy,True,CDS,ccmFn,+,2,R->Q (CGG->CAG)
+296926,C,T,66.1896,36,60.0,5,0.1724137931034483,Candidate_Heteroplasmy,True,CDS,ccmFn,+,1,R->C (CGC->TGC)
+296929,T,C,60.2808,37,60.0,6,0.20689655172413793,Candidate_Heteroplasmy,True,CDS,ccmFn,+,1,F->L (TTT->CTT)
+296934,C,T,53.6024,39,60.0,4,0.13793103448275862,Candidate_Heteroplasmy,True,CDS,ccmFn,+,3,F->F (TTC->TTT)
+297029,C,T,222.347,47,59.8378,21,0.5675675675675675,Candidate_Heteroplasmy,True,CDS,ccmFn,+,2,S->L (TCG->TTG)
+297112,C,T,225.417,31,60.0,27,1.0,Fixed_Homoplasmic,True,CDS,ccmFn,+,1,R->W (CGG->TGG)
+297140,C,T,228.279,29,60.0,23,0.9583333333333334,Fixed_Homoplasmic,True,CDS,ccmFn,+,2,P->L (CCA->CTA)
+297157,C,T,228.231,25,60.0,21,0.9545454545454546,Fixed_Homoplasmic,True,CDS,ccmFn,+,1,H->Y (CAT->TAT)
+297172,C,T,228.244,23,60.0,20,0.9523809523809523,Fixed_Homoplasmic,True,CDS,ccmFn,+,1,R->W (CGG->TGG)
+297190,C,T,228.325,28,60.0,23,0.9583333333333334,Fixed_Homoplasmic,True,CDS,ccmFn,+,1,R->W (CGG->TGG)
+297223,C,T,228.291,37,60.0,29,0.9666666666666667,Fixed_Homoplasmic,True,CDS,ccmFn,+,1,R->W (CGG->TGG)
+297241,C,T,228.416,39,60.0,29,0.9354838709677419,Fixed_Homoplasmic,True,CDS,ccmFn,+,1,R->C (CGT->TGT)
+297265,C,T,148.075,47,60.0,8,0.22857142857142856,Candidate_Heteroplasmy,True,CDS,ccmFn,+,1,L->F (CTT->TTT)
+297284,C,T,221.512,45,60.0,24,0.7272727272727273,Candidate_Heteroplasmy,True,CDS,ccmFn,+,2,S->L (TCG->TTG)
+297286,C,T,228.316,46,60.0,33,0.9705882352941176,Fixed_Homoplasmic,True,CDS,ccmFn,+,1,L->F (CTT->TTT)
+297304,C,T,228.318,47,60.0,31,0.96875,Fixed_Homoplasmic,True,CDS,ccmFn,+,1,L->F (CTT->TTT)
+297308,C,T,225.417,45,60.0,33,1.0,Fixed_Homoplasmic,True,CDS,ccmFn,+,2,P->L (CCA->CTA)
+297320,C,T,228.171,45,60.0,32,0.9411764705882353,Fixed_Homoplasmic,True,CDS,ccmFn,+,2,S->L (TCA->TTA)
+297329,C,T,228.325,51,60.0,33,0.9705882352941176,Fixed_Homoplasmic,True,CDS,ccmFn,+,2,S->F (TCT->TTT)
+297355,C,T,228.306,51,60.0,33,0.9428571428571428,Fixed_Homoplasmic,True,CDS,ccmFn,+,1,P->S (CCC->TCC)
+297626,C,T,222.278,49,60.0,18,0.5294117647058824,Candidate_Heteroplasmy,True,CDS,ccmFn,+,2,S->L (TCG->TTG)
+308116,A,G,221.022,43,60.0,23,0.71875,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+308117,G,A,221.466,43,60.0,23,0.71875,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+308120,A,C,221.432,43,60.0,23,0.71875,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+308134,C,T,72.6139,46,60.0,5,0.15151515151515152,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+308141,T,A,221.028,49,60.0,24,0.7272727272727273,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+308168,T,G,220.651,56,60.0,24,0.7272727272727273,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+308202,C,A,219.99,48,60.0,26,0.8125,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+308203,C,G,219.763,48,60.0,26,0.8125,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+317955,A,G,225.648,43,60.0,21,0.9130434782608695,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+320417,G,A,220.457,125,60.0,63,0.7777777777777778,Candidate_Heteroplasmy,True,CDS,ccmC,-,1,P->S (CCT->TCT)
+320434,G,A,217.712,141,60.0,77,0.8850574712643678,Fixed_Homoplasmic,True,CDS,ccmC,-,2,P->L (CCA->CTA)
+320440,G,A,218.784,147,59.8022,78,0.8571428571428571,Fixed_Homoplasmic,True,CDS,ccmC,-,2,P->L (CCT->CTT)
+320460,G,A,218.04,154,59.8064,82,0.8817204301075269,Fixed_Homoplasmic,True,CDS,ccmC,-,3,F->F (TTC->TTT)
+320466,G,A,219.862,154,59.8105,15,0.15789473684210525,Candidate_Heteroplasmy,True,CDS,ccmC,-,3,I->I (ATC->ATT)
+320471,G,A,228.135,154,59.8105,85,0.8947368421052632,Fixed_Homoplasmic,True,CDS,ccmC,-,1,R->C (CGT->TGT)
+320472,G,A,56.0765,154,59.8105,8,0.08421052631578947,Low_Frequency_Subclonal,True,CDS,ccmC,-,3,T->T (ACC->ACT)
+320476,G,A,228.242,156,59.8144,91,0.9381443298969072,Fixed_Homoplasmic,True,CDS,ccmC,-,2,S->L (TCA->TTA)
+320482,G,A,228.345,157,59.8144,94,0.9690721649484536,Fixed_Homoplasmic,True,CDS,ccmC,-,2,P->L (CCC->CTC)
+320485,G,A,219.945,160,59.8218,79,0.7821782178217822,Candidate_Heteroplasmy,True,CDS,ccmC,-,2,S->F (TCC->TTC)
+320515,G,A,218.7,83,60.0,55,0.859375,Fixed_Homoplasmic,True,CDS,ccmC,-,2,P->L (CCC->CTC)
+320522,G,A,228.2,79,60.0,58,0.9206349206349206,Fixed_Homoplasmic,True,CDS,ccmC,-,1,P->S (CCT->TCT)
+320542,G,A,219.386,75,60.0,58,0.8923076923076924,Fixed_Homoplasmic,True,CDS,ccmC,-,2,S->F (TCT->TTT)
+320569,G,A,218.411,86,60.0,63,0.8873239436619719,Fixed_Homoplasmic,True,CDS,ccmC,-,2,S->L (TCG->TTG)
+320593,G,A,218.213,96,60.0,66,0.9041095890410958,Fixed_Homoplasmic,True,CDS,ccmC,-,2,S->F (TCT->TTT)
+320613,G,A,221.686,98,60.0,29,0.38666666666666666,Candidate_Heteroplasmy,True,CDS,ccmC,-,3,I->I (ATC->ATT)
+320617,G,A,219.244,99,60.0,62,0.8493150684931506,Candidate_Heteroplasmy,True,CDS,ccmC,-,2,P->L (CCG->CTG)
+320623,G,A,221.682,96,60.0,52,0.7222222222222222,Candidate_Heteroplasmy,True,CDS,ccmC,-,2,A->V (GCT->GTT)
+320627,G,A,221.296,97,60.0,55,0.7432432432432432,Candidate_Heteroplasmy,True,CDS,ccmC,-,1,R->C (CGT->TGT)
+320632,G,A,221.342,94,60.0,55,0.7534246575342466,Candidate_Heteroplasmy,True,CDS,ccmC,-,2,S->L (TCA->TTA)
+320639,G,A,219.805,85,60.0,59,0.8428571428571429,Candidate_Heteroplasmy,True,CDS,ccmC,-,1,P->S (CCT->TCT)
+320644,G,A,220.94,85,60.0,53,0.7681159420289855,Candidate_Heteroplasmy,True,CDS,ccmC,-,2,P->L (CCG->CTG)
+320654,G,A,219.238,90,60.0,64,0.8648648648648649,Fixed_Homoplasmic,True,CDS,ccmC,-,1,P->S (CCT->TCT)
+320669,G,A,220.641,82,60.0,54,0.7941176470588235,Candidate_Heteroplasmy,True,CDS,ccmC,-,1,R->C (CGT->TGT)
+320672,G,A,221.116,79,60.0,50,0.7575757575757576,Candidate_Heteroplasmy,True,CDS,ccmC,-,1,L->L (CTG->TTG)
+320690,G,A,220.801,76,60.0,48,0.7619047619047619,Candidate_Heteroplasmy,True,CDS,ccmC,-,1,L->F (CTT->TTT)
+320691,G,A,218.284,75,60.0,55,0.873015873015873,Fixed_Homoplasmic,True,CDS,ccmC,-,3,F->F (TTC->TTT)
+320695,G,A,221.356,74,60.0,47,0.734375,Candidate_Heteroplasmy,True,CDS,ccmC,-,2,S->L (TCG->TTG)
+320759,G,A,219.193,41,60.0,30,0.8823529411764706,Fixed_Homoplasmic,True,CDS,ccmC,-,1,R->W (CGG->TGG)
+320791,G,A,218.838,43,60.0,30,0.8823529411764706,Fixed_Homoplasmic,True,CDS,ccmC,-,2,S->F (TCT->TTT)
+320809,G,A,220.536,52,60.0,36,0.8,Candidate_Heteroplasmy,True,CDS,ccmC,-,2,T->I (ACA->ATA)
+320838,G,A,130.57,57,60.0,9,0.2,Candidate_Heteroplasmy,True,CDS,ccmC,-,3,P->P (CCC->CCT)
+320906,G,A,219.115,67,60.0,43,0.8431372549019608,Candidate_Heteroplasmy,True,CDS,ccmC,-,1,R->W (CGG->TGG)
+320911,G,A,219.613,71,60.0,44,0.8148148148148148,Candidate_Heteroplasmy,True,CDS,ccmC,-,2,A->V (GCG->GTG)
+320929,G,A,220.887,73,60.0,42,0.75,Candidate_Heteroplasmy,True,CDS,ccmC,-,2,P->L (CCG->CTG)
+320957,G,A,219.443,67,60.0,49,0.8909090909090909,Fixed_Homoplasmic,True,CDS,ccmC,-,1,L->F (CTT->TTT)
+320975,G,A,220.309,63,60.0,40,0.8333333333333334,Candidate_Heteroplasmy,True,CDS,ccmC,-,1,R->W (CGG->TGG)
+320982,T,A,94.5957,63,60.0,6,0.125,Candidate_Heteroplasmy,True,CDS,ccmC,-,3,L->F (TTA->TTT)
+320987,G,A,220.203,62,60.0,39,0.8297872340425532,Candidate_Heteroplasmy,True,CDS,ccmC,-,1,H->Y (CAT->TAT)
+321006,G,A,222.269,73,60.0,21,0.42,Candidate_Heteroplasmy,True,CDS,ccmC,-,3,F->F (TTC->TTT)
+321014,G,A,220.178,72,60.0,41,0.8367346938775511,Candidate_Heteroplasmy,True,CDS,ccmC,-,1,R->W (CGG->TGG)
+321036,G,A,222.402,75,60.0,26,0.52,Candidate_Heteroplasmy,True,CDS,ccmC,-,3,Y->Y (TAC->TAT)
+321045,G,A,191.727,72,60.0,10,0.2127659574468085,Candidate_Heteroplasmy,True,CDS,ccmC,-,3,T->T (ACC->ACT)
+321085,G,A,219.933,54,60.0,34,0.8292682926829268,Candidate_Heteroplasmy,True,CDS,ccmC,-,2,S->F (TCC->TTC)
+321094,G,T,191.854,55,60.0,40,1.0,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+321111,G,A,150.022,48,60.0,9,0.23076923076923078,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+321169,CAAAAAAAA,CAAAAAAAAA,101.923,26,60.0,16,0.8421052631578947,Candidate_Heteroplasmy,False,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+321472,CTACTTATACTTA,CTACTTA,218.633,37,60.0,26,0.7647058823529411,Candidate_Heteroplasmy,False,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+321654,C,G,71.7507,45,60.0,5,0.15625,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+321800,G,A,139.299,28,60.0,8,0.4444444444444444,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+322136,G,A,201.232,22,60.0,11,0.6470588235294118,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+322597,GAAAAA,GAAAAAA,106.027,51,60.0,11,0.28205128205128205,Candidate_Heteroplasmy,False,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+322695,TGGGGGGG,TGGGGGGGG,102.335,28,60.0,9,0.375,Candidate_Heteroplasmy,False,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+323099,G,A,228.173,229,59.9353,158,0.9294117647058824,Fixed_Homoplasmic,True,CDS,atp4,-,2,T->I (ACT->ATT)
+323109,G,A,228.232,230,59.9349,160,0.9467455621301775,Fixed_Homoplasmic,True,CDS,atp4,-,1,P->S (CCA->TCA)
+323120,G,A,228.373,244,59.9944,176,0.9887640449438202,Fixed_Homoplasmic,True,CDS,atp4,-,2,S->L (TCA->TTA)
+323264,G,A,228.271,158,60.0,119,0.952,Fixed_Homoplasmic,True,CDS,atp4,-,2,P->L (CCG->CTG)
+323265,G,A,197.776,163,60.0,30,0.23076923076923078,Candidate_Heteroplasmy,True,CDS,atp4,-,1,P->S (CCG->TCG)
+323267,G,A,228.374,163,60.0,131,0.9849624060150376,Fixed_Homoplasmic,True,CDS,atp4,-,2,P->L (CCT->CTT)
+323288,G,A,228.406,171,60.0,131,0.9924242424242424,Fixed_Homoplasmic,True,CDS,atp4,-,2,P->L (CCC->CTC)
+323300,G,A,228.293,162,60.0,125,0.9765625,Fixed_Homoplasmic,True,CDS,atp4,-,2,S->L (TCG->TTG)
+323371,G,A,151.619,119,60.0,23,0.21296296296296297,Candidate_Heteroplasmy,True,CDS,atp4,-,3,F->F (TTC->TTT)
+323377,G,A,222.359,115,60.0,44,0.41904761904761906,Candidate_Heteroplasmy,True,CDS,atp4,-,3,I->I (ATC->ATT)
+323397,G,A,228.339,137,60.0,118,0.9833333333333333,Fixed_Homoplasmic,True,CDS,atp4,-,1,R->C (CGT->TGT)
+323426,G,A,228.368,139,60.0,104,0.9904761904761905,Fixed_Homoplasmic,True,CDS,atp4,-,2,S->L (TCA->TTA)
+323444,G,A,228.332,122,60.0,90,0.9782608695652174,Fixed_Homoplasmic,True,CDS,atp4,-,2,S->L (TCA->TTA)
+323456,G,A,228.305,131,60.0,94,0.9791666666666666,Fixed_Homoplasmic,True,CDS,atp4,-,2,S->F (TCT->TTT)
+323576,G,A,221.866,231,60.0,120,0.6629834254143646,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+323633,A,C,222.113,238,59.5376,114,0.6589595375722543,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+323722,G,A,228.312,228,60.0,174,0.9720670391061452,Fixed_Homoplasmic,True,CDS,nad4l,-,2,S->F (TCT->TTT)
+323773,G,A,228.297,211,60.0,171,0.9661016949152542,Fixed_Homoplasmic,True,CDS,nad4l,-,2,S->L (TCA->TTA)
+323806,G,A,228.192,225,60.0,176,0.9565217391304348,Fixed_Homoplasmic,True,CDS,nad4l,-,2,P->L (CCA->CTA)
+323815,G,A,228.179,211,60.0,170,0.9550561797752809,Fixed_Homoplasmic,True,CDS,nad4l,-,2,S->L (TCA->TTA)
+323824,G,A,228.202,197,60.0,162,0.9585798816568047,Fixed_Homoplasmic,True,CDS,nad4l,-,2,S->L (TCA->TTA)
+323845,G,A,228.127,161,60.0,121,0.937984496124031,Fixed_Homoplasmic,True,CDS,nad4l,-,2,S->L (TCG->TTG)
+323872,G,A,228.344,150,60.0,116,0.9830508474576272,Fixed_Homoplasmic,True,CDS,nad4l,-,2,S->L (TCG->TTG)
+323893,G,A,228.11,154,60.0,105,0.9375,Fixed_Homoplasmic,True,CDS,nad4l,-,2,S->L (TCA->TTA)
+323903,G,A,220.591,143,60.0,93,0.8230088495575221,Candidate_Heteroplasmy,True,CDS,nad4l,-,1,P->S (CCA->TCA)
+323908,G,A,228.113,143,60.0,108,0.9310344827586207,Fixed_Homoplasmic,True,CDS,nad4l,-,2,S->L (TCA->TTA)
+323917,G,A,228.059,147,60.0,108,0.9152542372881356,Fixed_Homoplasmic,True,CDS,nad4l,-,2,P->L (CCT->CTT)
+323948,G,A,228.125,188,60.0,116,0.928,Fixed_Homoplasmic,True,CDS,nad4l,-,1,R->W (CGG->TGG)
+323956,G,A,228.268,183,60.0,120,0.9523809523809523,Fixed_Homoplasmic,True,CDS,nad4l,-,2,S->L (TCA->TTA)
+323962,G,A,228.214,179,60.0,119,0.9444444444444444,Fixed_Homoplasmic,True,CDS,nad4l,-,2,S->F (TCT->TTT)
+323964,G,A,205.145,177,60.0,24,0.1935483870967742,Candidate_Heteroplasmy,True,CDS,nad4l,-,3,I->I (ATC->ATT)
+323982,G,A,220.853,165,60.0,26,0.21311475409836064,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+324001,G,A,219.439,141,60.0,92,0.8598130841121495,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+324007,G,A,152.501,128,60.0,20,0.2,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+324813,G,A,220.733,94,55.9265,54,0.7941176470588235,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+324814,G,T,95.4034,94,55.9265,9,0.1323529411764706,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+324824,G,A,220.45,99,56.5507,55,0.7971014492753623,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+324841,G,A,221.971,101,59.4648,47,0.6619718309859155,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+324850,G,A,220.539,103,59.775,64,0.8,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+324885,A,C,221.891,232,60.0,60,0.35502958579881655,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+324888,T,A,222.147,232,60.0,67,0.40853658536585363,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+324889,G,A,222.169,232,60.0,68,0.4146341463414634,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+324945,T,G,221.849,216,60.0,65,0.37790697674418605,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+324950,CTTTT,CTTTTTTTT,135.953,216,60.0,48,0.2857142857142857,Candidate_Heteroplasmy,False,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+325126,C,A,228.379,96,60.0,75,0.9868421052631579,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+325370,C,A,218.94,95,60.0,68,0.8947368421052632,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+325461,TCTTGCAC,TC,228.238,73,60.0,64,0.9014084507042254,Fixed_Homoplasmic,False,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+325601,GTAATCATT,G,228.26,63,60.0,53,0.8548387096774194,Fixed_Homoplasmic,False,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+339274,G,A,228.205,255,59.8025,234,0.9629629629629629,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+339282,G,A,228.227,263,59.8088,242,0.9641434262948207,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+339294,T,A,228.253,271,59.8295,249,0.9651162790697675,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+339300,G,A,225.417,276,59.8321,262,1.0,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+339311,G,A,228.287,276,59.6667,256,0.9696969696969697,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+339315,A,G,222.256,270,59.6602,154,0.5945945945945946,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+339331,A,AGAGAATAGAAC,130.261,209,59.9231,12,0.3076923076923077,Candidate_Heteroplasmy,False,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+339368,G,A,225.417,250,60.0,216,1.0,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+339387,A,C,228.402,247,60.0,207,0.9904306220095693,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+339396,G,A,228.402,186,60.0,159,0.99375,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+344475,G,A,185.287,25,60.0,5,0.3125,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+344479,G,A,178.344,24,60.0,6,0.35294117647058826,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+347492,T,C,125.045,20,59.2727,4,0.36363636363636365,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+347495,T,A,111.816,20,59.2727,4,0.36363636363636365,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+347525,C,A,225.718,20,59.4545,10,0.9090909090909091,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+357251,C,G,221.236,25,60.0,14,0.7,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+357288,T,A,221.297,23,60.0,16,0.7272727272727273,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+357310,G,A,116.104,23,60.0,8,0.36363636363636365,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+357326,A,T,114.883,24,60.0,8,0.38095238095238093,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+357329,G,T,119.965,24,60.0,8,0.38095238095238093,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+357343,T,C,106.851,24,60.0,8,0.38095238095238093,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+357401,T,A,48.8247,24,55.5556,5,0.2777777777777778,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+357430,TCAGAATCCGCTGA,T,210.312,21,60.0,11,0.6470588235294118,Candidate_Heteroplasmy,False,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+357472,G,A,219.783,32,60.0,22,0.8461538461538461,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+357486,T,A,35.7013,37,60.0,6,0.1935483870967742,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+357490,G,A,222.354,35,60.0,13,0.4482758620689655,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+357496,C,G,222.399,35,60.0,14,0.4827586206896552,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+357497,C,T,37.6302,35,60.0,5,0.1724137931034483,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+357501,G,T,219.529,35,60.0,24,0.8275862068965517,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+357513,G,A,218.882,44,60.0,27,0.8709677419354839,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+357536,CTTTTTT,CTTTTTTT,76.7755,48,59.0769,18,0.6923076923076923,Candidate_Heteroplasmy,False,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+357543,C,T,70.2089,39,59.2381,16,0.7619047619047619,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+357546,T,C,95.6163,42,59.3846,22,0.8461538461538461,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+367699,C,T,161.139,29,56.4737,9,0.47368421052631576,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+373130,C,T,111.65,70,60.0,6,0.14285714285714285,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+373270,C,T,219.331,51,51.6757,34,0.918918918918919,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+373277,C,T,220.042,57,52.9512,33,0.8048780487804879,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+373359,C,T,160.003,64,49.7561,9,0.21951219512195122,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+373407,C,T,148.377,30,50.5217,11,0.4782608695652174,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+373587,TC,TCAGGCAC,221.704,23,49.4783,15,0.6521739130434783,Candidate_Heteroplasmy,False,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+373620,G,A,221.831,33,54.3636,22,0.6666666666666666,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+373685,ACCGCCTGTGCCGCC,ACCGCC,221.592,43,60.0,25,0.625,Candidate_Heteroplasmy,False,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+373821,G,GTTGAAA,222.371,53,60.0,19,0.4634146341463415,Candidate_Heteroplasmy,False,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+373908,GC,GCGGAAGTTCC,222.358,77,60.0,31,0.47692307692307695,Candidate_Heteroplasmy,False,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+374173,A,T,222.024,61,60.0,15,0.38461538461538464,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+374174,G,GAGGA,222.241,61,60.0,29,0.5471698113207547,Candidate_Heteroplasmy,False,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+374175,C,A,221.904,61,60.0,14,0.3684210526315789,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+374349,C,T,221.87,64,60.0,40,0.6896551724137931,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+374510,AGG,AGGTTTGG,222.169,63,60.0,29,0.5370370370370371,Candidate_Heteroplasmy,False,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+374747,A,G,222.363,66,60.0,31,0.5849056603773585,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+374912,GAAAAAAAAA,GAAAAAAAAAA,27.6846,51,60.0,11,0.25,Candidate_Heteroplasmy,False,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+375156,C,T,193.192,32,58.76,9,0.36,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+375159,C,T,221.888,30,58.76,17,0.68,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+375167,C,T,190.204,28,58.6522,8,0.34782608695652173,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+395135,C,T,221.652,209,59.9775,52,0.29213483146067415,Candidate_Heteroplasmy,True,CDS,atp1,+,3,Y->Y (TAC->TAT)
+395315,C,T,222.235,250,60.0,88,0.4055299539170507,Candidate_Heteroplasmy,True,CDS,atp1,+,3,T->T (ACC->ACT)
+396108,C,T,228.413,249,55.814,214,0.9953488372093023,Fixed_Homoplasmic,True,CDS,atp1,+,1,P->S (CCC->TCC)
+396133,C,T,228.389,214,60.0,172,0.9942196531791907,Fixed_Homoplasmic,True,CDS,atp1,+,2,S->L (TCG->TTG)
+396247,C,T,228.381,247,60.0,206,0.9903846153846154,Fixed_Homoplasmic,True,CDS,atp1,+,2,S->L (TCA->TTA)
+396285,C,T,225.426,231,60.0,197,1.0,Fixed_Homoplasmic,True,CDS,atp1,+,1,L->F (CTT->TTT)
+396361,C,T,228.4,250,60.0,214,0.9907407407407407,Fixed_Homoplasmic,True,CDS,atp1,+,2,P->L (CCG->CTG)
+396405,C,A,222.328,249,59.9103,128,0.5739910313901345,Candidate_Heteroplasmy,True,CDS,atp1,+,1,L->I (CTA->ATA)
+396484,C,T,225.417,230,60.0,187,1.0,Fixed_Homoplasmic,True,CDS,atp1,+,2,P->L (CCA->CTA)
+396559,C,T,225.417,141,60.0,123,1.0,Fixed_Homoplasmic,True,CDS,atp1,+,2,P->L (CCA->CTA)
+397763,C,T,228.324,256,58.5484,243,0.9798387096774194,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+397783,C,A,228.304,244,59.3974,229,0.9786324786324786,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+397784,T,G,228.303,240,59.4545,224,0.9696969696969697,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+397795,C,T,228.334,244,59.5447,230,0.9787234042553191,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+397798,G,A,228.329,240,59.5388,227,0.978448275862069,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+397808,TCTTTGCTTTG,TCTTTG,42.5072,225,57.05,8,0.4,Candidate_Heteroplasmy,False,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+397809,C,A,44.9432,33,58.5,7,0.21875,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+397864,G,A,228.379,244,59.913,182,0.9891304347826086,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+397875,A,T,228.381,235,59.8012,169,0.9883040935672515,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+397887,C,A,225.417,219,59.9355,217,1.0,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+397890,C,T,225.417,223,59.9364,220,1.0,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+397921,A,T,228.331,159,60.0,92,0.9787234042553191,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+397935,G,T,116.433,161,58.1818,79,0.8977272727272727,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+397936,A,C,114.569,161,58.1818,76,0.8636363636363636,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+397942,T,A,120.939,156,58.5714,77,0.9166666666666666,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+397959,G,C,202.271,162,59.9379,142,0.9793103448275862,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+398024,C,A,228.393,249,60.0,235,0.9957627118644068,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+398041,C,T,228.384,181,60.0,174,0.9942857142857143,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+398044,C,T,228.385,180,60.0,173,0.9942528735632183,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+398047,C,T,228.375,226,60.0,216,0.9908256880733946,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+398068,A,G,228.408,250,60.0,239,0.9958333333333333,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+398107,C,T,225.417,225,60.0,215,1.0,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+398108,A,G,225.417,237,60.0,215,1.0,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+398113,T,A,228.337,253,59.8037,213,0.9726027397260274,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+398130,G,A,225.417,244,60.0,234,1.0,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+398132,G,A,225.417,244,60.0,233,1.0,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+398149,G,A,225.422,249,59.865,237,1.0,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+398180,G,A,228.408,202,59.4301,192,0.9948186528497409,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+398189,C,T,225.417,73,58.3333,66,1.0,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+398194,G,A,225.417,65,58.0645,62,1.0,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+398195,T,G,225.417,65,58.0645,62,1.0,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+398196,C,A,225.417,65,58.0645,62,1.0,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+398197,G,A,225.417,65,58.0645,62,1.0,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+398201,T,G,228.246,70,57.8507,62,0.9253731343283582,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+398207,C,T,228.408,250,50.5064,232,0.9957081545064378,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+398217,G,A,228.409,251,50.4786,233,0.9957264957264957,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+398218,C,T,228.412,251,50.4786,233,0.9957264957264957,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+398228,G,A,228.413,252,50.4786,233,0.9957264957264957,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+398236,T,C,228.41,252,50.4786,233,0.9957264957264957,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+401113,T,G,120.43,38,58.7619,19,0.9047619047619048,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+401123,T,G,170.506,41,59.0,8,0.3076923076923077,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+401127,C,T,228.203,41,59.0,24,0.9230769230769231,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+401128,T,C,228.195,41,59.0,24,0.9230769230769231,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+401153,T,G,228.31,47,59.36,23,0.92,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+403245,A,T,225.417,149,54.7051,78,1.0,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+419857,G,A,225.417,72,58.9556,45,1.0,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+419860,G,A,225.417,71,58.907,43,1.0,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+420935,G,GA,22.8398,29,54.8571,4,0.19047619047619047,Candidate_Heteroplasmy,False,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+420936,G,A,220.132,21,57.8462,11,0.8461538461538461,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+421118,G,A,221.754,30,60.0,20,0.7142857142857143,Candidate_Heteroplasmy,True,CDS,rps7,-,2,S->L (TCA->TTA)
+421334,G,A,228.411,44,60.0,35,0.9210526315789473,Fixed_Homoplasmic,True,CDS,rps7,-,2,P->L (CCA->CTA)
+421402,T,G,222.363,43,60.0,17,0.53125,Candidate_Heteroplasmy,True,CDS,rps7,-,3,V->V (GTA->GTC)
+421517,G,A,219.732,31,60.0,20,0.8695652173913043,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+427692,A,T,225.417,241,49.0466,236,1.0,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+431528,C,T,222.365,44,60.0,17,0.5666666666666667,Candidate_Heteroplasmy,True,CDS,rpl10,+,3,F->F (TTC->TTT)
+431602,C,T,221.302,56,59.9535,34,0.7906976744186046,Candidate_Heteroplasmy,True,CDS,rpl10,+,2,S->L (TCA->TTA)
+431620,C,T,221.274,53,60.0,33,0.8048780487804879,Candidate_Heteroplasmy,True,CDS,rpl10,+,2,S->L (TCG->TTG)
+431645,A,C,221.983,61,59.9608,34,0.6666666666666666,Candidate_Heteroplasmy,True,CDS,rpl10,+,3,L->L (CTA->CTC)
+431652,C,T,158.596,56,59.9556,14,0.3111111111111111,Candidate_Heteroplasmy,True,CDS,rpl10,+,1,L->L (CTA->TTA)
+431758,C,T,228.268,61,60.0,44,0.9565217391304348,Fixed_Homoplasmic,True,CDS,rpl10,+,2,S->L (TCG->TTG)
+431833,C,T,219.501,53,60.0,37,0.8809523809523809,Fixed_Homoplasmic,True,CDS,rpl10,+,2,S->L (TCA->TTA)
+431849,C,T,207.138,44,60.0,13,0.3939393939393939,Candidate_Heteroplasmy,True,CDS,rpl10,+,3,Y->Y (TAC->TAT)
+431890,C,A,222.38,48,60.0,17,0.4857142857142857,Candidate_Heteroplasmy,True,CDS,rpl10,+,2,S->Y (TCT->TAT)
+432287,G,A,112.909,39,60.0,7,0.25925925925925924,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+432311,C,T,100.225,51,60.0,8,0.26666666666666666,Candidate_Heteroplasmy,True,CDS,ccmB,-,3,S->S (TCG->TCA)
+432318,G,A,221.259,54,60.0,27,0.7941176470588235,Candidate_Heteroplasmy,True,CDS,ccmB,-,2,S->L (TCG->TTG)
+432327,A,T,43.8959,55,60.0,5,0.14285714285714285,Candidate_Heteroplasmy,True,CDS,ccmB,-,2,F->Y (TTT->TAT)
+432338,G,A,222.28,53,60.0,13,0.37142857142857144,Candidate_Heteroplasmy,True,CDS,ccmB,-,3,F->F (TTC->TTT)
+432342,G,A,217.713,52,60.0,27,0.9,Fixed_Homoplasmic,True,CDS,ccmB,-,2,P->L (CCG->CTG)
+432344,A,G,77.7282,52,60.0,5,0.16666666666666666,Candidate_Heteroplasmy,True,CDS,ccmB,-,3,S->S (TCT->TCC)
+432345,G,A,221.046,46,60.0,23,0.7666666666666667,Candidate_Heteroplasmy,True,CDS,ccmB,-,2,S->F (TCT->TTT)
+432348,G,A,228.321,53,60.0,27,0.9310344827586207,Fixed_Homoplasmic,True,CDS,ccmB,-,2,S->F (TCC->TTC)
+432360,G,A,220.71,58,60.0,26,0.7647058823529411,Candidate_Heteroplasmy,True,CDS,ccmB,-,2,S->L (TCG->TTG)
+432363,G,A,220.666,55,60.0,26,0.7878787878787878,Candidate_Heteroplasmy,True,CDS,ccmB,-,2,S->L (TCA->TTA)
+432393,G,A,159.969,48,60.0,9,0.24324324324324326,Candidate_Heteroplasmy,True,CDS,ccmB,-,2,S->F (TCT->TTT)
+432400,G,A,197.386,46,60.0,32,0.9142857142857143,Fixed_Homoplasmic,True,CDS,ccmB,-,1,R->C (CGT->TGT)
+432402,G,A,221.529,45,60.0,27,0.75,Candidate_Heteroplasmy,True,CDS,ccmB,-,2,S->F (TCT->TTT)
+432411,G,A,220.745,42,60.0,28,0.8,Candidate_Heteroplasmy,True,CDS,ccmB,-,2,P->L (CCA->CTA)
+432412,G,A,221.94,43,60.0,25,0.6944444444444444,Candidate_Heteroplasmy,True,CDS,ccmB,-,1,P->S (CCA->TCA)
+432420,G,A,222.04,46,60.0,25,0.6578947368421053,Candidate_Heteroplasmy,True,CDS,ccmB,-,2,S->L (TCA->TTA)
+432429,G,A,219.01,35,60.0,26,0.8387096774193549,Candidate_Heteroplasmy,True,CDS,ccmB,-,2,S->L (TCA->TTA)
+432438,G,A,219.466,31,60.0,25,0.8620689655172413,Fixed_Homoplasmic,True,CDS,ccmB,-,2,P->L (CCA->CTA)
+432439,G,A,218.572,31,60.0,26,0.896551724137931,Fixed_Homoplasmic,True,CDS,ccmB,-,1,P->S (CCA->TCA)
+432447,G,A,219.703,30,60.0,23,0.92,Fixed_Homoplasmic,True,CDS,ccmB,-,2,S->L (TCG->TTG)
+432486,G,A,218.713,22,60.0,17,0.8947368421052632,Fixed_Homoplasmic,True,CDS,ccmB,-,2,S->L (TCG->TTG)
+432490,G,A,219.41,21,60.0,16,0.8888888888888888,Fixed_Homoplasmic,True,CDS,ccmB,-,1,R->C (CGT->TGT)
+432535,G,A,220.54,20,60.0,11,0.7857142857142857,Candidate_Heteroplasmy,True,CDS,ccmB,-,1,L->L (CTA->TTA)
+432742,G,A,228.26,21,60.0,16,0.9411764705882353,Fixed_Homoplasmic,True,CDS,ccmB,-,1,P->S (CCT->TCT)
+432750,G,A,219.536,21,60.0,14,0.8235294117647058,Candidate_Heteroplasmy,True,CDS,ccmB,-,2,P->L (CCG->CTG)
+432760,G,A,228.251,25,60.0,17,0.9444444444444444,Fixed_Homoplasmic,True,CDS,ccmB,-,1,R->W (CGG->TGG)
+432765,G,A,218.448,25,60.0,15,0.8333333333333334,Candidate_Heteroplasmy,True,CDS,ccmB,-,2,P->L (CCG->CTG)
+432766,G,A,222.568,25,60.0,16,0.8888888888888888,Fixed_Homoplasmic,True,CDS,ccmB,-,1,P->S (CCG->TCG)
+432777,G,A,225.417,28,60.0,18,1.0,Fixed_Homoplasmic,True,CDS,ccmB,-,2,S->F (TCC->TTC)
+432786,G,A,222.38,26,60.0,7,0.4375,Candidate_Heteroplasmy,True,CDS,ccmB,-,2,S->L (TCA->TTA)
+432793,C,G,222.148,26,60.0,10,0.625,Candidate_Heteroplasmy,True,CDS,ccmB,-,1,D->H (GAC->CAC)
+432827,G,A,221.621,28,60.0,13,0.6842105263157895,Candidate_Heteroplasmy,True,CDS,ccmB,-,3,I->I (ATC->ATT)
+432834,G,A,228.25,26,60.0,18,0.9473684210526315,Fixed_Homoplasmic,True,CDS,ccmB,-,2,S->L (TCG->TTG)
+432843,G,A,218.392,27,60.0,18,0.9,Fixed_Homoplasmic,True,CDS,ccmB,-,2,P->L (CCA->CTA)
+432886,G,A,225.417,21,60.0,18,1.0,Fixed_Homoplasmic,True,CDS,ccmB,-,1,H->Y (CAT->TAT)
+434767,C,T,222.353,30,60.0,9,0.45,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+434770,G,A,157.683,32,59.8947,6,0.3157894736842105,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+434780,A,T,148.535,32,59.8947,5,0.2631578947368421,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+434789,C,T,221.794,29,59.5,12,0.6666666666666666,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+434791,C,T,222.388,29,59.5,8,0.4444444444444444,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+435328,C,T,225.417,70,58.6923,39,1.0,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+435355,C,T,225.417,67,59.8421,38,1.0,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+437829,G,T,228.403,263,58.375,255,0.99609375,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+441145,C,T,78.6742,32,60.0,4,0.21052631578947367,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+441173,C,G,73.2274,23,60.0,6,0.3333333333333333,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+441180,C,T,127.07,22,60.0,6,0.35294117647058826,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+441197,G,A,128.569,27,60.0,6,0.35294117647058826,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+441208,T,C,137.571,28,60.0,5,0.29411764705882354,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+441332,TATGAAAT,TAT,112.215,33,58.2692,8,0.3076923076923077,Candidate_Heteroplasmy,False,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+441335,G,C,225.417,24,59.5882,17,1.0,Fixed_Homoplasmic,True,CDS,mttB,+,3,M->I (ATG->ATC)
+441387,C,T,219.753,28,59.72,22,0.88,Fixed_Homoplasmic,True,CDS,mttB,+,1,H->Y (CAT->TAT)
+441392,C,T,92.4002,28,59.72,8,0.32,Candidate_Heteroplasmy,True,CDS,mttB,+,3,F->F (TTC->TTT)
+441396,C,T,181.064,27,59.72,20,0.8,Candidate_Heteroplasmy,True,CDS,mttB,+,1,P->S (CCG->TCG)
+441397,C,T,228.153,27,59.72,24,0.96,Fixed_Homoplasmic,True,CDS,mttB,+,2,P->L (CCG->CTG)
+441403,C,T,48.0931,33,59.2333,6,0.2,Candidate_Heteroplasmy,True,CDS,mttB,+,2,T->I (ACT->ATT)
+441408,C,T,222.235,34,59.2581,18,0.5806451612903226,Candidate_Heteroplasmy,True,CDS,mttB,+,1,L->L (CTA->TTA)
+441435,C,T,218.847,36,58.3333,29,0.8787878787878788,Fixed_Homoplasmic,True,CDS,mttB,+,1,R->W (CGG->TGG)
+441471,C,T,219.02,56,59.1818,38,0.8636363636363636,Fixed_Homoplasmic,True,CDS,mttB,+,1,R->C (CGT->TGT)
+441482,C,T,222.406,55,59.2889,23,0.5111111111111111,Candidate_Heteroplasmy,True,CDS,mttB,+,3,F->F (TTC->TTT)
+441483,C,T,225.421,56,60.0,43,1.0,Fixed_Homoplasmic,True,CDS,mttB,+,1,P->S (CCG->TCG)
+441499,C,T,219.193,72,59.9298,47,0.8245614035087719,Candidate_Heteroplasmy,True,CDS,mttB,+,2,S->F (TCT->TTT)
+441501,C,T,205.981,72,59.9298,13,0.22807017543859648,Candidate_Heteroplasmy,True,CDS,mttB,+,1,P->S (CCA->TCA)
+441502,C,T,218.658,72,59.9298,48,0.8421052631578947,Candidate_Heteroplasmy,True,CDS,mttB,+,2,P->L (CCA->CTA)
+441509,T,G,68.0918,74,59.9322,7,0.11864406779661017,Candidate_Heteroplasmy,True,CDS,mttB,+,3,A->A (GCT->GCG)
+441510,A,T,65.1379,74,59.9322,7,0.11864406779661017,Candidate_Heteroplasmy,True,CDS,mttB,+,1,K->* (AAA->TAA)
+441511,A,T,28.8307,76,59.931,7,0.1206896551724138,Candidate_Heteroplasmy,True,CDS,mttB,+,2,K->I (AAA->ATA)
+441513,C,T,89.6388,76,59.9322,9,0.15254237288135594,Candidate_Heteroplasmy,True,CDS,mttB,+,1,P->S (CCC->TCC)
+441549,C,T,228.32,76,59.9298,55,0.9649122807017544,Fixed_Homoplasmic,True,CDS,mttB,+,1,R->C (CGT->TGT)
+441559,C,T,221.924,76,60.0,54,0.9152542372881356,Fixed_Homoplasmic,True,CDS,mttB,+,2,S->L (TCA->TTA)
+441571,C,T,217.736,72,60.0,52,0.9285714285714286,Fixed_Homoplasmic,True,CDS,mttB,+,2,S->F (TCC->TTC)
+441573,C,T,217.945,75,60.0,51,0.9107142857142857,Fixed_Homoplasmic,True,CDS,mttB,+,1,P->S (CCG->TCG)
+441595,C,T,37.7565,84,60.0,10,0.15384615384615385,Candidate_Heteroplasmy,True,CDS,mttB,+,2,S->L (TCA->TTA)
+441617,C,T,66.4071,68,60.0,8,0.15384615384615385,Candidate_Heteroplasmy,True,CDS,mttB,+,3,V->V (GTC->GTT)
+441623,C,T,219.222,69,60.0,43,0.86,Fixed_Homoplasmic,True,CDS,mttB,+,3,P->P (CCC->CCT)
+441627,A,G,40.8398,64,60.0,6,0.11538461538461539,Candidate_Heteroplasmy,True,CDS,mttB,+,1,I->V (ATA->GTA)
+441633,C,T,222.389,120,52.6582,39,0.4936708860759494,Candidate_Heteroplasmy,True,CDS,mttB,+,1,H->Y (CAT->TAT)
+441656,C,T,222.391,56,60.0,26,0.5652173913043478,Candidate_Heteroplasmy,True,CDS,mttB,+,3,I->I (ATC->ATT)
+441698,C,T,222.282,44,59.3889,15,0.4166666666666667,Candidate_Heteroplasmy,True,CDS,mttB,+,3,F->F (TTC->TTT)
+441699,C,T,220.11,46,59.4211,31,0.8157894736842105,Candidate_Heteroplasmy,True,CDS,mttB,+,1,L->F (CTC->TTC)
+441702,C,T,219.735,46,59.7027,32,0.8648648648648649,Fixed_Homoplasmic,True,CDS,mttB,+,1,H->Y (CAT->TAT)
+441715,C,T,221.483,45,59.3714,24,0.6857142857142857,Candidate_Heteroplasmy,True,CDS,mttB,+,2,S->F (TCT->TTT)
+441717,C,T,219.233,45,59.3714,29,0.8285714285714286,Candidate_Heteroplasmy,True,CDS,mttB,+,1,R->C (CGC->TGC)
+441722,C,T,174.523,47,59.4634,13,0.3170731707317073,Candidate_Heteroplasmy,True,CDS,mttB,+,3,F->F (TTC->TTT)
+441724,C,T,222.337,47,59.4634,16,0.3902439024390244,Candidate_Heteroplasmy,True,CDS,mttB,+,2,S->F (TCC->TTC)
+441725,C,T,151.208,47,59.4634,10,0.24390243902439024,Candidate_Heteroplasmy,True,CDS,mttB,+,3,S->S (TCC->TCT)
+441738,C,T,52.3868,49,59.4634,5,0.12195121951219512,Candidate_Heteroplasmy,True,CDS,mttB,+,1,L->L (CTA->TTA)
+441744,C,T,221.149,46,59.45,30,0.75,Candidate_Heteroplasmy,True,CDS,mttB,+,1,L->F (CTT->TTT)
+441750,C,T,219.793,49,59.4634,34,0.8292682926829268,Candidate_Heteroplasmy,True,CDS,mttB,+,1,R->W (CGG->TGG)
+441778,C,T,228.339,53,60.0,48,0.9795918367346939,Fixed_Homoplasmic,True,CDS,mttB,+,2,P->L (CCA->CTA)
+441808,C,T,218.535,60,60.0,39,0.8666666666666667,Fixed_Homoplasmic,True,CDS,mttB,+,2,S->L (TCG->TTG)
+441812,C,T,222.372,59,60.0,22,0.4888888888888889,Candidate_Heteroplasmy,True,CDS,mttB,+,3,L->L (CTC->CTT)
+441843,C,T,228.345,63,60.0,49,0.98,Fixed_Homoplasmic,True,CDS,mttB,+,1,H->Y (CAT->TAT)
+441861,C,T,52.8106,68,60.0,7,0.14,Candidate_Heteroplasmy,True,CDS,mttB,+,1,R->C (CGT->TGT)
+441868,C,T,228.288,70,60.0,48,0.96,Fixed_Homoplasmic,True,CDS,mttB,+,2,S->L (TCG->TTG)
+441876,C,T,228.213,67,60.0,49,0.9423076923076923,Fixed_Homoplasmic,True,CDS,mttB,+,1,P->S (CCA->TCA)
+441890,C,T,127.896,71,60.0,7,0.14285714285714285,Candidate_Heteroplasmy,True,CDS,mttB,+,3,S->S (TCC->TCT)
+441912,C,T,228.304,66,60.0,44,0.9777777777777777,Fixed_Homoplasmic,True,CDS,mttB,+,1,R->C (CGT->TGT)
+441919,C,T,228.256,69,60.0,44,0.9565217391304348,Fixed_Homoplasmic,True,CDS,mttB,+,2,P->L (CCA->CTA)
+441925,C,T,228.25,65,60.0,44,0.9565217391304348,Fixed_Homoplasmic,True,CDS,mttB,+,2,S->L (TCA->TTA)
+441931,C,T,228.343,59,60.0,37,0.9736842105263158,Fixed_Homoplasmic,True,CDS,mttB,+,2,A->V (GCT->GTT)
+441949,C,T,228.176,58,60.0,35,0.9210526315789473,Fixed_Homoplasmic,True,CDS,mttB,+,2,S->F (TCC->TTC)
+441981,C,T,228.3,66,59.7917,46,0.9583333333333334,Fixed_Homoplasmic,True,CDS,mttB,+,1,P->S (CCG->TCG)
+441987,C,T,218.159,68,59.7959,44,0.8979591836734694,Fixed_Homoplasmic,True,CDS,mttB,+,1,L->F (CTC->TTC)
+441991,C,T,222.406,62,59.9149,27,0.574468085106383,Candidate_Heteroplasmy,True,CDS,mttB,+,2,T->I (ACA->ATA)
+442031,C,T,222.137,61,60.0,26,0.6046511627906976,Candidate_Heteroplasmy,True,CDS,mttB,+,3,I->I (ATC->ATT)
+442038,C,T,218.036,55,60.0,33,0.9166666666666666,Fixed_Homoplasmic,True,CDS,mttB,+,1,R->C (CGT->TGT)
+442043,C,T,222.281,55,60.0,21,0.5833333333333334,Candidate_Heteroplasmy,True,CDS,mttB,+,3,F->F (TTC->TTT)
+442054,C,T,218.887,50,60.0,28,0.8484848484848485,Candidate_Heteroplasmy,True,CDS,mttB,+,2,S->L (TCG->TTG)
+442075,C,T,218.387,46,60.0,24,0.8571428571428571,Fixed_Homoplasmic,True,CDS,mttB,+,2,S->F (TCT->TTT)
+442084,C,T,228.206,42,60.0,24,0.9230769230769231,Fixed_Homoplasmic,True,CDS,mttB,+,2,S->L (TCG->TTG)
+449849,C,T,228.409,213,59.2922,153,0.9935064935064936,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+449857,A,G,225.417,204,59.5933,150,1.0,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+449978,G,A,228.366,157,51.0236,125,0.984251968503937,Fixed_Homoplasmic,True,CDS,atp6,-,1,L->L (CTA->TTA)
+449990,G,A,228.367,174,50.7462,128,0.9846153846153847,Fixed_Homoplasmic,True,CDS,atp6,-,1,H->Y (CAT->TAT)
+449992,C,T,228.366,175,51.0154,128,0.9846153846153847,Fixed_Homoplasmic,True,CDS,atp6,-,2,S->N (AGT->AAT)
+450012,G,C,228.342,144,57.2718,100,0.970873786407767,Fixed_Homoplasmic,True,CDS,atp6,-,3,V->V (GTC->GTG)
+450017,T,A,228.357,134,57.1327,96,0.9795918367346939,Fixed_Homoplasmic,True,CDS,atp6,-,1,K->* (AAA->TAA)
+450143,G,A,228.326,139,60.0,113,0.9741379310344828,Fixed_Homoplasmic,True,CDS,atp6,-,1,Q->* (CAA->TAA)
+450154,G,A,228.268,147,60.0,117,0.9590163934426229,Fixed_Homoplasmic,True,CDS,atp6,-,2,T->I (ACA->ATA)
+450181,G,A,228.213,203,60.0,126,0.9473684210526315,Fixed_Homoplasmic,True,CDS,atp6,-,2,S->L (TCA->TTA)
+450183,G,A,220.439,206,60.0,23,0.17293233082706766,Candidate_Heteroplasmy,True,CDS,atp6,-,3,I->I (ATC->ATT)
+450190,G,A,228.351,215,60.0,133,0.9708029197080292,Fixed_Homoplasmic,True,CDS,atp6,-,2,S->F (TCT->TTT)
+450197,G,A,228.38,213,60.0,133,0.9851851851851852,Fixed_Homoplasmic,True,CDS,atp6,-,1,H->Y (CAT->TAT)
+450205,G,A,228.339,223,60.0,141,0.9724137931034482,Fixed_Homoplasmic,True,CDS,atp6,-,2,S->L (TCA->TTA)
+450226,G,A,228.199,251,60.0,152,0.9382716049382716,Fixed_Homoplasmic,True,CDS,atp6,-,2,P->L (CCG->CTG)
+450273,G,A,221.758,159,60.0,94,0.6714285714285714,Candidate_Heteroplasmy,True,CDS,atp6,-,3,F->F (TTC->TTT)
+450313,G,A,228.067,145,60.0,120,0.9302325581395349,Fixed_Homoplasmic,True,CDS,atp6,-,2,S->F (TCC->TTC)
+450334,G,A,219.098,138,60.0,102,0.8869565217391304,Fixed_Homoplasmic,True,CDS,atp6,-,2,S->L (TCA->TTA)
+450376,G,A,228.22,134,60.0,109,0.9478260869565217,Fixed_Homoplasmic,True,CDS,atp6,-,2,P->L (CCA->CTA)
+450398,G,A,228.182,145,60.0,112,0.9333333333333333,Fixed_Homoplasmic,True,CDS,atp6,-,1,H->Y (CAT->TAT)
+450401,G,A,228.176,144,60.0,112,0.9333333333333333,Fixed_Homoplasmic,True,CDS,atp6,-,1,P->S (CCT->TCT)
+450460,G,A,228.22,174,60.0,137,0.9513888888888888,Fixed_Homoplasmic,True,CDS,atp6,-,2,S->L (TCA->TTA)
+450591,G,A,222.293,238,60.0,105,0.5614973262032086,Candidate_Heteroplasmy,True,CDS,atp6,-,3,P->P (CCC->CCT)
+450592,G,A,228.122,237,60.0,171,0.9193548387096774,Fixed_Homoplasmic,True,CDS,atp6,-,2,P->L (CCC->CTC)
+450599,G,A,228.046,250,60.0,173,0.9153439153439153,Fixed_Homoplasmic,True,CDS,atp6,-,1,R->C (CGT->TGT)
+450607,G,A,228.397,243,60.0,186,0.9946524064171123,Fixed_Homoplasmic,True,CDS,atp6,-,2,S->L (TCG->TTG)
+450625,G,A,228.108,250,60.0,174,0.9405405405405406,Fixed_Homoplasmic,True,CDS,atp6,-,2,S->L (TCG->TTG)
+450632,G,A,228.059,221,60.0,160,0.9302325581395349,Fixed_Homoplasmic,True,CDS,atp6,-,1,R->C (CGC->TGC)
+450637,G,A,228.136,232,60.0,170,0.9444444444444444,Fixed_Homoplasmic,True,CDS,atp6,-,2,S->F (TCC->TTC)
+450688,G,A,228.261,160,60.0,127,0.9621212121212122,Fixed_Homoplasmic,True,CDS,atp6,-,2,P->L (CCG->CTG)
+450694,G,A,228.378,165,60.0,135,0.9854014598540146,Fixed_Homoplasmic,True,CDS,atp6,-,2,P->L (CCG->CTG)
+450745,G,A,228.337,140,60.0,121,0.983739837398374,Fixed_Homoplasmic,True,CDS,atp6,-,2,S->L (TCA->TTA)
+450824,G,A,228.369,155,60.0,127,0.9844961240310077,Fixed_Homoplasmic,True,CDS,atp6,-,1,P->S (CCA->TCA)
+450966,T,G,206.558,127,58.7963,34,0.3148148148148148,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+450967,A,C,221.832,127,58.7963,37,0.3425925925925926,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+450969,G,A,214.755,126,58.7736,34,0.32075471698113206,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+450979,T,TTCTTGCTCTCGGAAGA,222.279,122,58.6396,39,0.35135135135135137,Candidate_Heteroplasmy,False,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+450987,C,T,195.732,122,58.7619,38,0.3619047619047619,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+451000,G,A,222.196,115,59.3469,61,0.6224489795918368,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+451621,G,A,52.1358,29,60.0,5,0.20833333333333334,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+451622,G,A,75.7886,29,60.0,6,0.25,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+451650,G,A,221.236,37,60.0,18,0.75,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+455533,C,T,228.143,88,60.0,68,0.918918918918919,Fixed_Homoplasmic,True,CDS,nad4,+,2,S->F (TCC->TTC)
+455578,C,T,221.617,108,60.0,58,0.6904761904761905,Candidate_Heteroplasmy,True,CDS,nad4,+,2,T->I (ACT->ATT)
+455581,C,T,220.169,116,60.0,77,0.8191489361702128,Candidate_Heteroplasmy,True,CDS,nad4,+,2,P->L (CCT->CTT)
+455588,C,T,48.3112,115,60.0,14,0.15217391304347827,Candidate_Heteroplasmy,True,CDS,nad4,+,3,F->F (TTC->TTT)
+455611,C,T,219.785,116,60.0,73,0.8295454545454546,Candidate_Heteroplasmy,True,CDS,nad4,+,2,P->L (CCG->CTG)
+455628,C,T,221.355,128,60.0,25,0.26595744680851063,Candidate_Heteroplasmy,True,CDS,nad4,+,1,L->L (CTG->TTG)
+455658,C,T,219.954,125,60.0,76,0.8351648351648352,Candidate_Heteroplasmy,True,CDS,nad4,+,1,P->S (CCC->TCC)
+455660,C,T,51.9045,125,60.0,14,0.15053763440860216,Candidate_Heteroplasmy,True,CDS,nad4,+,3,P->P (CCC->CCT)
+455662,C,T,221.342,128,60.0,71,0.7553191489361702,Candidate_Heteroplasmy,True,CDS,nad4,+,2,P->L (CCT->CTT)
+455670,C,T,220.844,127,60.0,75,0.8064516129032258,Candidate_Heteroplasmy,True,CDS,nad4,+,1,R->W (CGG->TGG)
+455701,C,T,220.803,103,60.0,63,0.7974683544303798,Candidate_Heteroplasmy,True,CDS,nad4,+,2,S->F (TCT->TTT)
+455765,C,T,201.028,95,60.0,20,0.24096385542168675,Candidate_Heteroplasmy,True,CDS,nad4,+,3,D->D (GAC->GAT)
+455866,C,T,218.983,98,58.8143,60,0.8571428571428571,Fixed_Homoplasmic,True,CDS,nad4,+,2,T->I (ACA->ATA)
+455872,C,T,219.782,85,58.7612,56,0.835820895522388,Candidate_Heteroplasmy,True,CDS,nad4,+,2,S->F (TCT->TTT)
+455880,C,T,228.137,85,58.7612,62,0.9253731343283582,Fixed_Homoplasmic,True,CDS,nad4,+,1,R->C (CGT->TGT)
+455897,C,T,166.218,91,58.7231,13,0.2,Candidate_Heteroplasmy,True,CDS,nad4,+,3,I->I (ATC->ATT)
+455907,C,T,218.812,86,57.8571,55,0.873015873015873,Fixed_Homoplasmic,True,CDS,nad4,+,1,R->C (CGC->TGC)
+455920,C,T,219.851,85,57.2222,52,0.8253968253968254,Candidate_Heteroplasmy,True,CDS,nad4,+,2,P->L (CCT->CTT)
+455937,C,T,221.445,88,58.7288,43,0.7288135593220338,Candidate_Heteroplasmy,True,CDS,nad4,+,1,L->F (CTT->TTT)
+455940,C,T,218.559,86,58.7288,53,0.8983050847457628,Fixed_Homoplasmic,True,CDS,nad4,+,1,P->S (CCC->TCC)
+455941,C,T,220.84,86,58.7288,48,0.8135593220338984,Candidate_Heteroplasmy,True,CDS,nad4,+,2,P->L (CCC->CTC)
+455953,C,T,217.897,80,57.8103,53,0.9137931034482759,Fixed_Homoplasmic,True,CDS,nad4,+,2,P->L (CCA->CTA)
+456398,C,T,220.812,53,60.0,35,0.7446808510638298,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+457892,C,T,155.087,98,60.0,13,0.16883116883116883,Candidate_Heteroplasmy,True,CDS,nad4,+,1,L->L (CTG->TTG)
+458053,A,G,32.3934,74,60.0,5,0.08333333333333333,Low_Frequency_Subclonal,True,CDS,nad4,+,3,V->V (GTA->GTG)
+458083,T,C,24.4233,84,58.7097,6,0.0967741935483871,Low_Frequency_Subclonal,True,CDS,nad4,+,3,F->F (TTT->TTC)
+458086,C,T,35.5118,82,58.6667,5,0.08333333333333333,Low_Frequency_Subclonal,True,CDS,nad4,+,3,F->F (TTC->TTT)
+458247,C,T,219.276,81,60.0,47,0.8545454545454545,Fixed_Homoplasmic,True,CDS,nad4,+,2,A->V (GCG->GTG)
+458295,C,T,228.357,59,60.0,50,0.9803921568627451,Fixed_Homoplasmic,True,CDS,nad4,+,2,P->L (CCA->CTA)
+458313,C,T,228.212,78,59.9706,65,0.9558823529411765,Fixed_Homoplasmic,True,CDS,nad4,+,2,S->F (TCC->TTC)
+458851,T,A,140.301,21,60.0,5,0.35714285714285715,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+458881,G,A,164.302,22,60.0,5,0.3125,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+459673,G,A,96.4113,22,60.0,4,0.25,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+459687,G,T,93.2017,25,60.0,4,0.25,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+461316,C,T,225.417,56,60.0,29,1.0,Fixed_Homoplasmic,True,CDS,nad4,+,1,H->Y (CAC->TAC)
+461332,C,T,228.269,56,60.0,28,0.9655172413793104,Fixed_Homoplasmic,True,CDS,nad4,+,2,P->L (CCG->CTG)
+461337,C,T,225.417,56,60.0,29,1.0,Fixed_Homoplasmic,True,CDS,nad4,+,1,R->C (CGC->TGC)
+483383,A,C,225.417,27,58.4286,21,1.0,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+483395,C,A,225.417,33,58.68,25,1.0,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+483429,G,A,228.26,33,59.0435,22,0.9565217391304348,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+483432,G,T,228.264,33,59.0833,23,0.9583333333333334,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+483444,A,G,228.256,28,58.08,24,0.96,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+483445,G,A,228.258,28,58.08,24,0.96,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+483447,A,C,228.274,28,58.1538,25,0.9615384615384616,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+483450,G,A,228.259,28,58.1538,25,0.9615384615384616,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+483463,T,C,143.977,31,58.1538,25,0.9615384615384616,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+483472,C,T,228.243,46,58.4516,30,0.967741935483871,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+483492,A,T,228.188,48,57.0312,30,0.9375,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+483493,T,C,228.206,48,57.0312,30,0.9375,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+489204,G,T,64.2348,245,59.5948,231,0.9956896551724138,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+489217,G,A,228.395,253,59.6116,241,0.9958677685950413,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+489221,T,C,228.397,257,59.6163,244,0.9959183673469387,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+489225,A,G,228.396,261,59.6179,245,0.9959349593495935,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+500472,G,A,225.417,113,60.0,78,1.0,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+500481,A,C,225.417,96,60.0,70,1.0,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+500482,T,A,225.417,96,60.0,70,1.0,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+500483,A,G,225.417,96,60.0,70,1.0,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+500487,G,T,225.417,97,60.0,72,1.0,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+500514,G,T,221.714,145,60.0,73,0.6952380952380952,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+500524,G,C,221.487,144,60.0,28,0.2641509433962264,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+500528,G,A,221.122,144,60.0,22,0.20952380952380953,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+500535,T,A,228.417,137,60.0,102,0.9902912621359223,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+500565,G,T,195.596,129,60.0,69,0.9324324324324325,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+500570,G,A,225.417,132,60.0,95,1.0,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+500581,C,A,228.393,145,60.0,104,0.9811320754716981,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+500592,G,A,225.417,147,60.0,105,1.0,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+500596,T,C,225.417,140,60.0,105,1.0,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+500618,G,C,225.421,120,60.0,86,1.0,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+500656,G,A,225.417,95,60.0,80,1.0,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+500663,C,T,225.417,93,60.0,74,1.0,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+500674,C,A,138.416,84,60.0,57,1.0,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+500712,G,A,225.417,81,59.7377,61,1.0,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+500714,C,T,222.177,81,59.7419,40,0.6451612903225806,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+500733,T,C,225.417,73,59.6596,47,1.0,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+500735,A,C,228.384,62,59.6522,45,0.9782608695652174,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+503233,CATTGAT,C,228.292,25,60.0,19,0.8636363636363636,Fixed_Homoplasmic,False,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+503756,TTCTTAT,TTCTTATCTTAT,105.612,40,60.0,7,0.25925925925925924,Candidate_Heteroplasmy,False,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+503802,C,A,204.691,45,60.0,9,0.28125,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+503818,C,T,61.5838,42,60.0,5,0.16666666666666666,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+503830,CGTTCTT,C,151.36,60,56.5854,11,0.2682926829268293,Candidate_Heteroplasmy,False,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+504064,C,T,228.229,37,60.0,25,0.9259259259259259,Fixed_Homoplasmic,True,CDS,nad5,+,2,P->L (CCG->CTG)
+504588,G,A,211.09,56,60.0,16,0.34782608695652173,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+504984,C,T,218.573,25,60.0,18,0.9,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+505005,C,T,220.341,35,60.0,22,0.8461538461538461,Candidate_Heteroplasmy,True,CDS,nad5,+,2,P->L (CCG->CTG)
+505035,C,T,220.375,45,60.0,27,0.8181818181818182,Candidate_Heteroplasmy,True,CDS,nad5,+,2,S->F (TCC->TTC)
+505121,C,T,220.279,69,60.0,43,0.7678571428571429,Candidate_Heteroplasmy,True,CDS,nad5,+,1,P->S (CCT->TCT)
+505122,C,T,220.324,69,60.0,43,0.7678571428571429,Candidate_Heteroplasmy,True,CDS,nad5,+,2,P->L (CCT->CTT)
+505137,C,T,219.094,71,60.0,43,0.7962962962962963,Candidate_Heteroplasmy,True,CDS,nad5,+,2,P->L (CCA->CTA)
+505161,C,T,220.128,82,60.0,51,0.85,Fixed_Homoplasmic,True,CDS,nad5,+,2,S->F (TCT->TTT)
+505175,C,T,114.602,80,60.0,7,0.11864406779661017,Candidate_Heteroplasmy,True,CDS,nad5,+,1,L->L (CTG->TTG)
+505269,C,T,219.86,141,60.0,89,0.8240740740740741,Candidate_Heteroplasmy,True,CDS,nad5,+,2,P->L (CCT->CTT)
+505302,C,T,218.823,155,60.0,105,0.9051724137931034,Fixed_Homoplasmic,True,CDS,nad5,+,2,P->L (CCT->CTT)
+505311,C,T,220.1,152,60.0,93,0.8303571428571429,Candidate_Heteroplasmy,True,CDS,nad5,+,2,S->L (TCG->TTG)
+505371,C,T,226.621,127,60.0,81,0.9,Fixed_Homoplasmic,True,CDS,nad5,+,2,A->V (GCC->GTC)
+505392,C,T,221.976,116,59.7778,80,0.8888888888888888,Fixed_Homoplasmic,True,CDS,nad5,+,2,S->F (TCT->TTT)
+505394,C,T,218.214,114,59.7727,77,0.875,Fixed_Homoplasmic,True,CDS,nad5,+,1,R->C (CGC->TGC)
+505439,C,T,228.103,100,60.0,69,0.8961038961038961,Fixed_Homoplasmic,True,CDS,nad5,+,1,L->F (CTT->TTT)
+505476,C,T,219.837,78,60.0,57,0.8769230769230769,Fixed_Homoplasmic,True,CDS,nad5,+,2,S->L (TCG->TTG)
+505488,C,T,220.266,74,60.0,54,0.8571428571428571,Fixed_Homoplasmic,True,CDS,nad5,+,2,S->L (TCA->TTA)
+505598,C,T,217.997,63,60.0,46,0.9019607843137255,Fixed_Homoplasmic,True,CDS,nad5,+,1,P->S (CCA->TCA)
+505638,C,T,228.158,68,60.0,50,0.9259259259259259,Fixed_Homoplasmic,True,CDS,nad5,+,2,T->M (ACG->ATG)
+505696,A,C,21.2791,75,60.0,5,0.08620689655172414,Low_Frequency_Subclonal,True,CDS,nad5,+,3,I->I (ATA->ATC)
+505894,T,G,38.9158,66,59.9298,7,0.12280701754385964,Candidate_Heteroplasmy,True,CDS,nad5,+,3,F->L (TTT->TTG)
+506073,C,T,228.109,72,60.0,54,0.9310344827586207,Fixed_Homoplasmic,True,CDS,nad5,+,2,S->L (TCA->TTA)
+506479,C,T,220.944,23,60.0,12,0.75,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+506820,G,A,208.143,34,59.3636,7,0.3181818181818182,Candidate_Heteroplasmy,True,CDS,orf115b,+,2,W->* (TGG->TAG)
+548539,A,G,144.286,21,60.0,8,0.47058823529411764,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+548554,G,A,144.202,22,60.0,7,0.4375,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+548605,G,A,161.342,21,60.0,7,0.4117647058823529,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+548613,C,T,163.379,20,60.0,7,0.4117647058823529,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+548661,C,T,209.406,21,60.0,6,0.4,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+549592,C,T,190.366,22,53.2,7,0.4666666666666667,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+549604,A,AC,72.2601,22,52.2353,6,0.35294117647058826,Candidate_Heteroplasmy,False,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+549610,T,C,42.2953,22,52.2,6,0.4,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+551622,C,T,218.981,23,60.0,13,0.8666666666666667,Fixed_Homoplasmic,True,CDS,ccmFc,+,2,P->L (CCT->CTT)
+551624,C,T,218.861,23,60.0,13,0.8666666666666667,Fixed_Homoplasmic,True,CDS,ccmFc,+,1,R->C (CGT->TGT)
+551675,C,T,220.528,21,60.0,9,0.75,Candidate_Heteroplasmy,True,CDS,ccmFc,+,1,P->S (CCC->TCC)
+551691,C,T,220.639,21,60.0,9,0.75,Candidate_Heteroplasmy,True,CDS,ccmFc,+,2,S->F (TCT->TTT)
+551694,C,T,220.548,21,60.0,9,0.75,Candidate_Heteroplasmy,True,CDS,ccmFc,+,2,S->F (TCC->TTC)
+551695,C,T,207.254,21,60.0,8,0.6666666666666666,Candidate_Heteroplasmy,True,CDS,ccmFc,+,3,S->S (TCC->TCT)
+551963,C,T,84.457,36,60.0,5,0.2,Candidate_Heteroplasmy,True,CDS,ccmFc,+,1,R->C (CGT->TGT)
+551978,C,T,221.012,36,60.0,20,0.8,Candidate_Heteroplasmy,True,CDS,ccmFc,+,1,R->C (CGT->TGT)
+552031,G,A,221.657,37,60.0,18,0.6666666666666666,Candidate_Heteroplasmy,True,CDS,ccmFc,+,3,R->R (CGG->CGA)
+552155,G,A,222.404,29,60.0,10,0.45454545454545453,Candidate_Heteroplasmy,True,CDS,ccmFc,+,1,V->I (GTC->ATC)
+552206,G,A,222.406,28,60.0,10,0.5,Candidate_Heteroplasmy,True,CDS,ccmFc,+,1,G->R (GGG->AGG)
+552232,G,A,222.056,20,60.0,9,0.6,Candidate_Heteroplasmy,True,CDS,ccmFc,+,3,T->T (ACG->ACA)
+552237,G,C,202.285,20,60.0,9,0.6,Candidate_Heteroplasmy,True,CDS,ccmFc,+,2,R->P (CGA->CCA)
+552278,C,T,183.396,22,60.0,11,0.5789473684210527,Candidate_Heteroplasmy,True,CDS,ccmFc,+,1,P->S (CCA->TCA)
+552279,C,T,178.404,22,60.0,10,0.5263157894736842,Candidate_Heteroplasmy,True,CDS,ccmFc,+,2,P->L (CCA->CTA)
+552404,G,A,220.278,26,59.9412,12,0.7058823529411765,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+552437,G,A,222.071,27,59.7647,11,0.6470588235294118,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+552497,C,T,204.404,22,60.0,7,0.5,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+561117,G,A,222.405,31,60.0,8,0.4444444444444444,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+561129,G,A,222.404,32,60.0,8,0.4444444444444444,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+561130,C,T,222.405,32,60.0,8,0.4444444444444444,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+574966,C,T,103.8,98,60.0,13,0.16883116883116883,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+575041,G,T,100.718,120,60.0,16,0.16161616161616163,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+575168,T,A,70.0826,142,60.0,16,0.13675213675213677,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+575301,C,T,58.5899,73,60.0,8,0.12903225806451613,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+575882,CAAAAAAAAA,CAAAAAAAAAA,111.769,243,60.0,59,0.271889400921659,Candidate_Heteroplasmy,False,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+575923,C,T,222.275,257,60.0,90,0.38626609442060084,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+576043,C,T,120.059,242,60.0,57,0.24782608695652175,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+576166,C,T,221.743,248,57.395,165,0.6932773109243697,Candidate_Heteroplasmy,True,CDS,sdh3,+,3,L->L (CTC->CTT)
+576179,C,T,228.395,250,56.7269,236,0.9915966386554622,Fixed_Homoplasmic,True,CDS,sdh3,+,1,P->S (CCA->TCA)
+576186,C,T,228.339,244,56.515,228,0.9785407725321889,Fixed_Homoplasmic,True,CDS,sdh3,+,2,S->F (TCC->TTC)
+576208,C,T,212.76,250,55.9456,76,0.3179916317991632,Candidate_Heteroplasmy,True,CDS,sdh3,+,3,F->F (TTC->TTT)
+576220,A,G,221.738,249,55.9747,80,0.33755274261603374,Candidate_Heteroplasmy,True,CDS,sdh3,+,3,I->M (ATA->ATG)
+576239,C,T,153.583,246,56.0043,66,0.28205128205128205,Candidate_Heteroplasmy,True,CDS,sdh3,+,1,L->F (CTT->TTT)
+576268,C,T,222.399,249,56.0952,119,0.5151515151515151,Candidate_Heteroplasmy,True,CDS,sdh3,+,3,F->F (TTC->TTT)
+576305,A,T,221.759,231,57.5877,67,0.3175355450236967,Candidate_Heteroplasmy,True,CDS,sdh3,+,1,N->Y (AAT->TAT)
+576306,A,C,221.642,231,57.5762,66,0.3142857142857143,Candidate_Heteroplasmy,True,CDS,sdh3,+,2,N->T (AAT->ACT)
+576307,T,A,221.803,230,57.9762,69,0.32857142857142857,Candidate_Heteroplasmy,True,CDS,sdh3,+,3,N->K (AAT->AAA)
+576313,C,T,33.6587,227,58.039,32,0.15609756097560976,Candidate_Heteroplasmy,True,CDS,sdh3,+,3,L->L (CTC->CTT)
+576385,G,A,221.954,128,60.0,39,0.3577981651376147,Candidate_Heteroplasmy,True,CDS,sdh3,+,3,L->L (TTG->TTA)
+576393,T,C,102.543,116,60.0,13,0.13402061855670103,Candidate_Heteroplasmy,True,CDS,sdh3,+,2,F->S (TTT->TCT)
+576396,C,T,92.4138,111,60.0,11,0.12087912087912088,Candidate_Heteroplasmy,True,CDS,sdh3,+,2,S->L (TCG->TTG)
+576933,TCTTAAC,TC,218.765,29,60.0,24,0.8275862068965517,Candidate_Heteroplasmy,False,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+577861,A,C,196.813,56,47.625,11,0.34375,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+578784,C,T,221.376,74,59.5909,13,0.29545454545454547,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+583966,T,C,228.354,147,59.1733,73,0.9733333333333334,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+590022,A,G,220.387,32,55.0,12,0.75,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+590029,G,A,225.417,22,60.0,12,1.0,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+590048,C,T,225.417,22,60.0,12,1.0,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+590050,G,T,225.417,22,60.0,12,1.0,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+590067,G,A,218.117,23,60.0,12,0.8571428571428571,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+594570,T,A,225.638,37,60.0,18,0.9473684210526315,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+605871,G,A,228.332,96,60.0,68,0.9714285714285714,Fixed_Homoplasmic,True,CDS,nad2,-,2,S->L (TCA->TTA)
+605912,G,A,220.575,125,60.0,60,0.8,Candidate_Heteroplasmy,True,CDS,nad2,-,3,P->P (CCC->CCT)
+605919,G,A,228.237,125,60.0,70,0.9459459459459459,Fixed_Homoplasmic,True,CDS,nad2,-,2,P->L (CCA->CTA)
+605920,G,A,228.238,125,60.0,70,0.9459459459459459,Fixed_Homoplasmic,True,CDS,nad2,-,1,P->S (CCA->TCA)
+605928,G,A,217.435,133,60.0,70,0.9333333333333333,Fixed_Homoplasmic,True,CDS,nad2,-,2,S->L (TCA->TTA)
+606030,G,A,228.14,67,60.0,52,0.9122807017543859,Fixed_Homoplasmic,True,CDS,nad2,-,2,A->V (GCG->GTG)
+607190,T,G,175.406,23,60.0,10,0.5263157894736842,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+607580,G,A,217.769,56,60.0,38,0.9047619047619048,Fixed_Homoplasmic,True,CDS,nad2,-,1,P->S (CCA->TCA)
+607699,G,A,227.499,63,60.0,42,0.8936170212765957,Fixed_Homoplasmic,True,CDS,nad2,-,2,S->L (TCG->TTG)
+607768,G,A,225.417,82,60.0,54,1.0,Fixed_Homoplasmic,True,CDS,nad2,-,2,S->L (TCA->TTA)
+607798,G,A,228.311,83,60.0,51,0.9622641509433962,Fixed_Homoplasmic,True,CDS,nad2,-,2,S->L (TCA->TTA)
+607864,G,A,225.421,58,60.0,47,1.0,Fixed_Homoplasmic,True,CDS,nad2,-,2,T->I (ACT->ATT)
+607868,G,A,225.417,55,60.0,44,1.0,Fixed_Homoplasmic,True,CDS,nad2,-,1,R->C (CGT->TGT)
+607898,G,A,228.223,47,60.0,38,0.95,Fixed_Homoplasmic,True,CDS,nad2,-,1,H->Y (CAT->TAT)
+607971,G,A,69.2608,64,60.0,6,0.13333333333333333,Candidate_Heteroplasmy,True,CDS,nad2,-,3,F->F (TTC->TTT)
+608017,G,A,228.313,75,60.0,49,0.98,Fixed_Homoplasmic,True,CDS,nad2,-,2,S->F (TCT->TTT)
+608026,G,A,217.202,77,60.0,47,0.94,Fixed_Homoplasmic,True,CDS,nad2,-,2,S->L (TCA->TTA)
+608038,G,A,228.16,76,60.0,47,0.94,Fixed_Homoplasmic,True,CDS,nad2,-,2,S->F (TCT->TTT)
+608251,C,T,188.254,53,59.1471,8,0.23529411764705882,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+608254,A,C,189.085,55,59.1471,8,0.23529411764705882,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+608273,G,A,222.332,98,58.4655,29,0.5,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+608279,A,G,222.37,93,58.6316,28,0.49122807017543857,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+608281,C,G,222.352,93,58.6316,28,0.49122807017543857,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+608282,G,A,222.364,93,58.6316,28,0.49122807017543857,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+608312,CCCGTAAC,CC,168.196,23,60.0,11,0.5,Candidate_Heteroplasmy,False,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+608346,CAAAAAAAAAAAAA,CAAAAAAAAA,26.9139,61,50.5714,12,0.34285714285714286,Candidate_Heteroplasmy,False,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+608694,G,A,222.291,46,59.4839,13,0.41935483870967744,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+608713,T,C,222.16,59,56.8649,13,0.35135135135135137,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+608714,A,C,58.4379,59,56.9474,5,0.13157894736842105,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+608722,G,A,222.348,48,59.6364,14,0.42424242424242425,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+608729,G,A,222.406,48,59.6471,16,0.47058823529411764,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+608752,G,A,222.325,35,60.0,14,0.5384615384615384,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+608768,G,A,88.7234,33,60.0,6,0.21428571428571427,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+609184,G,A,189.356,51,59.6154,10,0.2564102564102564,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+609194,G,A,206.426,52,59.625,10,0.25,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+609698,GC,GCAAACC,222.399,73,60.0,26,0.4126984126984127,Candidate_Heteroplasmy,False,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+609813,A,G,222.195,70,60.0,18,0.36,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+610180,CTTTTTTTTTT,CTTTTTTTTTTT,80.0387,26,60.0,11,0.5789473684210527,Candidate_Heteroplasmy,False,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+610672,G,A,225.417,41,60.0,28,1.0,Fixed_Homoplasmic,True,CDS,nad2,-,2,S->F (TCC->TTC)
+610687,G,A,228.318,45,60.0,30,0.967741935483871,Fixed_Homoplasmic,True,CDS,nad2,-,2,S->F (TCT->TTT)
+616061,T,C,225.417,76,56.4255,47,1.0,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+616068,C,A,225.417,74,56.3478,46,1.0,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+616070,G,A,225.417,74,56.4255,47,1.0,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+616087,G,A,225.417,74,56.0889,45,1.0,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+616090,C,T,225.417,74,56.0889,45,1.0,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+616102,C,T,225.417,66,54.381,42,1.0,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+616107,T,G,228.251,66,53.7895,37,0.9736842105263158,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+616113,C,A,228.273,55,53.7895,37,0.9736842105263158,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+616114,T,A,222.401,55,54.1,19,0.475,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+616122,A,T,228.241,52,53.9487,38,0.9743589743589743,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+616126,G,A,228.392,52,53.9487,38,0.9743589743589743,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+618581,A,G,225.417,28,57.8571,14,1.0,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+622083,G,A,225.417,23,60.0,15,1.0,Fixed_Homoplasmic,True,tRNA,trnM-CAU,+,0,N/A
+622090,C,T,225.417,23,60.0,15,1.0,Fixed_Homoplasmic,True,tRNA,trnM-CAU,+,0,N/A
+622102,C,T,225.417,34,60.0,23,1.0,Fixed_Homoplasmic,True,tRNA,trnM-CAU,+,0,N/A
+622117,A,G,225.417,42,60.0,24,1.0,Fixed_Homoplasmic,True,tRNA,trnM-CAU,+,0,N/A
+623429,C,T,142.723,30,60.0,8,0.3333333333333333,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+623817,A,AAAAG,221.796,28,60.0,15,0.625,Candidate_Heteroplasmy,False,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+625235,T,C,228.181,243,60.0,222,0.9527896995708155,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+625237,C,G,228.164,250,60.0,226,0.9456066945606695,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+625253,C,A,228.219,247,60.0,228,0.9620253164556962,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+625262,T,C,228.13,245,60.0,223,0.9449152542372882,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+625274,G,A,228.188,255,59.8655,226,0.9495798319327731,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+625355,T,A,33.0934,118,44.918,26,0.4262295081967213,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+626236,C,T,115.802,89,60.0,11,0.16417910447761194,Candidate_Heteroplasmy,True,CDS,nad1,+,1,L->L (CTA->TTA)
+626409,A,C,222.329,140,59.4059,45,0.44554455445544555,Candidate_Heteroplasmy,True,CDS,nad1,+,3,L->F (TTA->TTC)
+626411,C,T,217.641,138,59.3939,88,0.8888888888888888,Fixed_Homoplasmic,True,CDS,nad1,+,2,S->F (TCC->TTC)
+626461,C,T,228.419,129,60.0,80,0.9195402298850575,Fixed_Homoplasmic,True,CDS,nad1,+,1,R->W (CGG->TGG)
+626503,C,T,228.072,99,60.0,79,0.9294117647058824,Fixed_Homoplasmic,True,CDS,nad1,+,1,P->S (CCG->TCG)
+626504,C,T,228.299,100,60.0,82,0.9761904761904762,Fixed_Homoplasmic,True,CDS,nad1,+,2,P->L (CCG->CTG)
+626572,C,T,228.296,71,55.3846,51,0.9807692307692307,Fixed_Homoplasmic,True,CDS,nad1,+,1,R->W (CGG->TGG)
+628643,G,T,217.744,45,60.0,22,0.88,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+628647,C,A,199.486,45,60.0,6,0.25,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+645891,C,T,228.211,113,55.9333,70,0.9333333333333333,Fixed_Homoplasmic,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+645898,A,G,217.883,109,59.1447,18,0.23684210526315788,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+645971,C,T,112.76,89,60.0,12,0.15789473684210525,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+646077,A,G,222.33,119,60.0,35,0.4069767441860465,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+646113,C,T,178.804,101,59.8313,20,0.24096385542168675,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+646118,A,ACTTATT,66.4695,101,60.0,11,0.15492957746478872,Candidate_Heteroplasmy,False,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+646123,C,T,105.804,88,59.825,20,0.25,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+646132,G,A,103.539,76,59.9206,13,0.20634920634920634,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+646146,C,T,87.6239,89,59.7432,11,0.14864864864864866,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+646149,C,T,222.219,85,59.7941,27,0.39705882352941174,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+646157,C,T,220.039,81,59.7077,53,0.8153846153846154,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+646172,G,C,222.268,88,57.3108,31,0.4189189189189189,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+646215,C,T,157.251,93,59.7361,13,0.18055555555555555,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+646250,C,T,220.509,114,59.9412,68,0.8,Candidate_Heteroplasmy,True,CDS,rpl5,+,1,P->S (CCA->TCA)
+646256,C,T,222.408,112,59.9383,40,0.49382716049382713,Candidate_Heteroplasmy,True,CDS,rpl5,+,1,H->Y (CAT->TAT)
+646278,C,T,222.253,113,59.9398,50,0.6024096385542169,Candidate_Heteroplasmy,True,CDS,rpl5,+,2,S->L (TCA->TTA)
+646290,C,T,219.231,112,60.0,73,0.8690476190476191,Fixed_Homoplasmic,True,CDS,rpl5,+,2,P->L (CCG->CTG)
+646302,C,T,219.433,104,60.0,64,0.8421052631578947,Candidate_Heteroplasmy,True,CDS,rpl5,+,2,P->L (CCG->CTG)
+646307,C,T,219.793,103,60.0,63,0.84,Candidate_Heteroplasmy,True,CDS,rpl5,+,1,H->Y (CAC->TAC)
+646335,C,T,219.001,105,59.8902,70,0.8536585365853658,Fixed_Homoplasmic,True,CDS,rpl5,+,2,S->L (TCG->TTG)
+646412,C,T,228.242,91,60.0,70,0.958904109589041,Fixed_Homoplasmic,True,CDS,rpl5,+,1,P->S (CCG->TCG)
+646415,C,T,228.109,90,60.0,68,0.9444444444444444,Fixed_Homoplasmic,True,CDS,rpl5,+,1,R->C (CGC->TGC)
+646449,C,T,144.762,91,60.0,9,0.13636363636363635,Candidate_Heteroplasmy,True,CDS,rpl5,+,2,S->L (TCG->TTG)
+646461,C,T,83.3728,96,60.0,14,0.19718309859154928,Candidate_Heteroplasmy,True,CDS,rpl5,+,2,S->L (TCG->TTG)
+646557,A,C,222.354,140,60.0,55,0.4583333333333333,Candidate_Heteroplasmy,True,CDS,rpl5,+,2,Y->S (TAT->TCT)
+646693,C,T,228.137,204,60.0,129,0.9148936170212766,Fixed_Homoplasmic,True,CDS,rpl5,+,3,I->I (ATC->ATT)
+646761,C,T,228.362,149,60.0,115,0.9829059829059829,Fixed_Homoplasmic,True,CDS,rpl5,+,2,P->L (CCA->CTA)
+646764,C,T,228.362,149,60.0,115,0.9829059829059829,Fixed_Homoplasmic,True,CDS,rpl5,+,2,P->L (CCG->CTG)
+647079,C,T,228.29,149,59.807,110,0.9649122807017544,Fixed_Homoplasmic,True,CDS,rps14,+,1,P->S (CCT->TCT)
+647118,C,T,221.677,132,60.0,29,0.2815533980582524,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+647339,C,T,134.808,142,60.0,19,0.168141592920354,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+647396,C,T,31.2409,165,59.6525,14,0.11864406779661017,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+647554,T,C,33.9581,96,60.0,6,0.08955223880597014,Low_Frequency_Subclonal,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+647565,A,C,32.0029,91,60.0,5,0.07692307692307693,Low_Frequency_Subclonal,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+647702,C,CTTTAAT,214.349,31,60.0,15,0.5172413793103449,Candidate_Heteroplasmy,False,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+648171,C,T,86.7707,111,59.1279,15,0.1744186046511628,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+648244,C,G,221.68,121,60.0,66,0.7021276595744681,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+648359,C,T,177.97,106,60.0,18,0.24,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+648486,C,T,65.374,80,60.0,10,0.15625,Candidate_Heteroplasmy,True,CDS,cob,+,2,T->I (ACA->ATA)
+648551,C,T,219.312,122,60.0,84,0.8842105263157894,Fixed_Homoplasmic,True,CDS,cob,+,1,P->S (CCG->TCG)
+648611,C,T,228.162,142,60.0,102,0.9444444444444444,Fixed_Homoplasmic,True,CDS,cob,+,1,H->Y (CAC->TAC)
+648719,C,T,228.272,140,60.0,112,0.9572649572649573,Fixed_Homoplasmic,True,CDS,cob,+,1,L->F (CTC->TTC)
+648731,C,T,228.257,143,60.0,110,0.9565217391304348,Fixed_Homoplasmic,True,CDS,cob,+,1,H->Y (CAC->TAC)
+648758,C,T,228.084,138,60.0,105,0.9210526315789473,Fixed_Homoplasmic,True,CDS,cob,+,1,H->Y (CAT->TAT)
+648791,C,T,228.225,153,60.0,120,0.9448818897637795,Fixed_Homoplasmic,True,CDS,cob,+,1,R->W (CGG->TGG)
+648852,C,T,228.374,160,60.0,119,0.9834710743801653,Fixed_Homoplasmic,True,CDS,cob,+,2,P->L (CCA->CTA)
+649001,C,T,228.058,148,60.0,107,0.8916666666666667,Fixed_Homoplasmic,True,CDS,cob,+,1,H->Y (CAT->TAT)
+649113,C,T,228.161,121,60.0,94,0.9306930693069307,Fixed_Homoplasmic,True,CDS,cob,+,2,S->F (TCT->TTT)
+649179,T,G,222.395,113,60.0,49,0.5764705882352941,Candidate_Heteroplasmy,True,CDS,cob,+,2,L->W (TTG->TGG)
+649241,C,T,228.171,102,60.0,76,0.9382716049382716,Fixed_Homoplasmic,True,CDS,cob,+,1,P->S (CCC->TCC)
+649286,C,T,228.283,95,60.0,76,0.9620253164556962,Fixed_Homoplasmic,True,CDS,cob,+,1,H->Y (CAT->TAT)
+649341,C,T,228.322,87,60.0,72,0.972972972972973,Fixed_Homoplasmic,True,CDS,cob,+,2,P->L (CCA->CTA)
+649347,C,T,228.369,82,60.0,70,0.9859154929577465,Fixed_Homoplasmic,True,CDS,cob,+,2,S->F (TCT->TTT)
+649415,C,T,228.36,115,60.0,93,0.9893617021276596,Fixed_Homoplasmic,True,CDS,cob,+,1,H->Y (CAC->TAC)
+649448,C,T,228.334,152,60.0,128,0.9770992366412213,Fixed_Homoplasmic,True,CDS,cob,+,1,R->C (CGC->TGC)
+649517,C,T,228.187,190,60.0,145,0.9477124183006536,Fixed_Homoplasmic,True,CDS,cob,+,1,P->S (CCT->TCT)
+649528,A,C,222.392,211,60.0,81,0.5159235668789809,Candidate_Heteroplasmy,True,CDS,cob,+,3,L->F (TTA->TTC)
+649531,C,T,222.4,250,60.0,87,0.5506329113924051,Candidate_Heteroplasmy,True,CDS,cob,+,3,F->F (TTC->TTT)
+649557,C,T,228.325,222,60.0,140,0.9790209790209791,Fixed_Homoplasmic,True,CDS,cob,+,2,P->L (CCG->CTG)
+649593,C,T,220.823,164,60.0,25,0.2066115702479339,Candidate_Heteroplasmy,True,CDS,cob,+,2,T->M (ACG->ATG)
+672295,G,C,220.824,40,60.0,17,0.7391304347826086,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+672300,C,A,220.983,40,60.0,17,0.7391304347826086,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A
+672303,G,A,140.02,38,60.0,6,0.2608695652173913,Candidate_Heteroplasmy,True,Intergenic_or_Intron,Intergenic/Intron,.,0,N/A

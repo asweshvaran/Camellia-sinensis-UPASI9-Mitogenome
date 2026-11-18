@@ -1,0 +1,26 @@
+name: camellia-mito-q1
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.11
+  - biopython>=1.83
+  - numpy
+  - pandas
+  - matplotlib
+  - scipy
+  - fastp>=0.23
+  - bwa>=0.7.17
+  - samtools>=1.19
+  - bcftools>=1.19
+  - spades>=4.0
+  - getorganelle>=1.7.7
+  - blast>=2.14
+  - mummer4
+  - trnascan-se>=2.0
+  - iqtree>=2.2
+  - prodigal
+  - sra-tools>=3.0
+  # Note: ESMFold v1 protein folding runs in a dedicated CUDA PyTorch environment
+  # (torch>=2.2 + transformers + accelerate, bfloat16 precision on NVIDIA GPU).

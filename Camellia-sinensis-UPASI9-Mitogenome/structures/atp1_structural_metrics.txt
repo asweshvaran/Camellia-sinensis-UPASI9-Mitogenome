@@ -1,0 +1,27 @@
+==========================================================
+ATP1 (ATP SYNTHASE ALPHA SUBUNIT) STRUCTURAL BIOINFORMATICS
+==========================================================
+Gene Name                     : atp1 (F1-ATP synthase regulatory alpha subunit)
+Reference Protein Length      : 509 amino acids (NC_043914.1)
+Assembled Protein Length      : 509 amino acids (SRR9057080, UPASI-9)
+Sequence Identity to Ref      : 98.43%
+Total Amino Acid Substitutions: 8
+----------------------------------------------------------
+ESMFOLD 3D PREDICTION CONFIDENCE (Standard 0-100 pLDDT Scale):
+  - Mean Global pLDDT         : 95.02 / 100
+  - Median pLDDT              : 96.00 / 100
+  - Very High Conf (>= 90)    : 91.7% of residues (Crystal-grade)
+  - Confident (70 - 90)       : 7.3% of residues
+  - Low Confidence (50 - 70)  : 1.0% of residues
+  - Disordered / Very Low (<50): 0.0% of residues
+----------------------------------------------------------
+Identified Amino Acid Substitutions (Putative RNA Editing Signatures):
+  Residue 347 : Ref P -> Var S | Local pLDDT: 97.0
+  Residue 355 : Ref S -> Var L | Local pLDDT: 98.0
+  Residue 393 : Ref S -> Var L | Local pLDDT: 97.0
+  Residue 406 : Ref L -> Var F | Local pLDDT: 93.0
+  Residue 431 : Ref P -> Var L | Local pLDDT: 98.0
+  Residue 446 : Ref L -> Var I | Local pLDDT: 98.0
+  Residue 472 : Ref P -> Var L | Local pLDDT: 98.0
+  Residue 497 : Ref P -> Var L | Local pLDDT: 97.0
+==========================================================

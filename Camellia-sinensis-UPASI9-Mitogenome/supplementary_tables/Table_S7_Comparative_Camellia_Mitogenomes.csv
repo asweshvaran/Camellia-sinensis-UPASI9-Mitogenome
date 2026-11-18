@@ -1,0 +1,9 @@
+Species_Cultivar,Accession,Genome_Size_bp,Topology_Architecture,Study_Type
+Camellia sinensis cv. Yidan,PX759560,931612,Circular Master,WGS Assembly
+Camellia drupifera,PZ378386-87,978603,2 Circular Chromosomes,Multipartite Ring
+Camellia oleifera,PX170215-21,916337,7 Circular Chromosomes,Multichromosomal Multipartite
+Camellia sinensis cv. Wuyi Narcissus,PZ267020-21,910237,2 Linear Chromosomes,Multipartite Linear
+Camellia pitardii,PZ501402,895290,Circular Master,Complete Circular
+Camellia sinensis cv. Xinyang10,PX398764-65,845076,2 Circular Chromosomes,Multipartite Circular
+Camellia sinensis RefSeq,NC_043914.1,707441,Circular Master,Reference Strain
+Camellia sinensis cv. UPASI-9 (This study),SRR9057080,258681,"1,160 Scaffolds (Core Transcriptome)",Deep RNA-Seq Exome
