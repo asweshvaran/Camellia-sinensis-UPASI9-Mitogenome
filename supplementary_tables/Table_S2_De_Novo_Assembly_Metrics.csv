@@ -1,0 +1,13 @@
+Metric,Legacy GetOrganelle (extended_spades),GetOrganelle K105 Selected Graph,Purified Xinyang10-Guided rnaSPAdes (All),Purified Xinyang10-Guided rnaSPAdes (>=500 bp)
+Input / Filtering Strategy,Unfiltered GetOrganelle embplant_mt recruitment (53.93M reads),K105 embplant_mt path selection,Competitive BWA-MEM vs Xinyang10 (PX398764-65) + cpDNA (NC_020019.1),Post-assembly length filter (>=500 bp) on purified transcripts
+Total Contigs / Scaffolds,"1,160",2 isolated nodes,"2,295",217
+Total Assembled Length,"258,681 bp (36.57% of NC_043914.1)","3,333 bp (1,574 + 1,759 bp)","854,700 bp","286,843 bp"
+Assembly N50 / L50,193 bp / L50=202,"1,759 bp / L50=1",290 bp / L50=605,"1,730 bp / L50=44"
+Longest Sequence,"7,316 bp (NODE_1 = Chloroplast DNA!)","1,759 bp (Plastid rRNA)","6,120 bp (NODE_1 = MT rpl2-rps19-rpl16)","6,120 bp (NODE_1 = MT rpl2-rps19-rpl16)"
+GC Content (%),49.82%,54.25% (rRNA),42.00%,46.02%
+Mitochondrial-Specific Sequence,"73,801 bp (106 scaffolds; 28.53%)",0 bp (0.0%),"466,552 bp (941 contigs; 54.6%)","237,395 bp (186 contigs; 82.8%)"
+MTPT / Shared Organellar Homologs,"116,989 bp (729 scaffolds; 45.23%)","3,333 bp (plastid rRNA)","60,192 bp (65 contigs; 7.0%)","48,907 bp (30 contigs; 17.0%)"
+Pure Chloroplast Contamination,"60,955 bp (313 scaffolds; 23.56%)","100% plastid-biased rRNA (24,259.5x artifact)",0 bp (0 contigs; 0.0%),0 bp (0 contigs; 0.0%)
+Unclassified Sequence,"6,936 bp (12 scaffolds; 2.68%)",0 bp,"327,956 bp (1,289 short contigs <500bp)",541 bp (1 low-cov poly-AT repeat; 0.2%)
+GFA Graph Nodes / Links,"1,535 nodes / 1,963 links (815 hubs)",2 nodes / 0 links,"4,222 segments / 114 links (2,295 paths)",Subgraph >=500 bp
+Normalized Canonical MT CDS Recovered,30 MT (+ 16 CP CDS),0 MT CDS,37 MT CDS (+ 3 MTPT co-assembled),37 MT CDS (full-length polycistronic)

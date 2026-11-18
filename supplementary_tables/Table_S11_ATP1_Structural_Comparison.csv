@@ -1,0 +1,11 @@
+Model_or_Site,Mutation_Code,WT_pLDDT,Edited_pLDDT,Delta_pLDDT,WT_KD_Hydropathy,Edited_KD_Hydropathy,Delta_KD,Calpha_Displacement_A,WT_Neighbor_Contacts_8A,Edited_Neighbor_Contacts_8A
+ATP1 Site 347,P347S,97.0,97.0,0.0,-1.6,-0.8,0.8,0.776,7,6
+ATP1 Site 355,S355L,97.0,98.0,1.0,-0.8,3.8,4.6,0.743,16,16
+ATP1 Site 393,S393L,87.0,97.0,10.0,-0.8,3.8,4.6,0.534,10,10
+ATP1 Site 406,L406F,91.0,93.0,2.0,3.8,2.8,-1.0,1.619,7,7
+ATP1 Site 431,P431L,92.0,98.0,6.0,-1.6,3.8,5.4,1.038,9,9
+ATP1 Site 446,L446I,84.0,98.0,14.0,3.8,4.5,0.7,0.287,9,10
+ATP1 Site 472,P472L,76.0,98.0,22.0,-1.6,3.8,5.4,3.107,7,9
+ATP1 Site 497,P497L,73.0,97.0,24.0,-1.6,3.8,5.4,0.684,10,9
+ATP1 Global (509 aa),8 C-terminal edits (347-497),91.18 (mean),95.02 (mean),+3.84,Global WT,+25.9 cumulative gain,+25.9,1.251 A (C-term 1.953 A),91.7% >=90 pLDDT (Edited),ESMFold v1
+COX1 De Novo (527 aa),Newly recovered (Absent in NC_043914.1),N/A,"90.75 (mean, median 99.0)",N/A,N/A,N/A,N/A,N/A,78.7% >=90 pLDDT,ESMFold v1

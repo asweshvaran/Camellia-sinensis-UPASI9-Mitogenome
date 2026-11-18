@@ -1,0 +1,8 @@
+tRNA_Isotype,Anticodon,Legacy_Scaffold,Full_Scaffold_ID,Begin_bp,End_bp,Length,Intron,Infernal_Score,Organellar_Origin,Pan_Camellia_MT_Confirmation
+tRNA-Pro,TGG,NODE_1,NODE_1_length_7316_cov_129.055748,7209,7136,74 bp,None,65.6,Chloroplast_Contamination,"Legacy scaffold origin: Chloroplast_Contamination (cpDNA id=99.672%, mtDNA id=0.0%)"
+tRNA-Trp,CCA,NODE_1,NODE_1_length_7316_cov_129.055748,6965,6892,74 bp,None,68.7,Chloroplast_Contamination,"Legacy scaffold origin: Chloroplast_Contamination (cpDNA id=99.672%, mtDNA id=0.0%)"
+tRNA-Ile,GAT,NODE_6,NODE_6_length_3078_cov_964.952573,2492,2405,88 bp,16 bp (2456-2441),16.4,Shared_Homolog_MTPT,"Legacy scaffold origin: Shared_Homolog_MTPT (cpDNA id=99.74%, mtDNA id=99.743%)"
+tRNA-Ala,TGC,NODE_6,NODE_6_length_3078_cov_964.952573,1404,1300,105 bp,40 bp (1367-1328),16.3,Shared_Homolog_MTPT,"Legacy scaffold origin: Shared_Homolog_MTPT (cpDNA id=99.74%, mtDNA id=99.743%)"
+tRNA-Met,CAT,NODE_9,NODE_9_length_2846_cov_208.218533,2607,2535,73 bp,None,59.5,Chloroplast_Dominant,"Legacy scaffold origin: Chloroplast_Dominant (cpDNA id=99.857%, mtDNA id=86.337%)"
+tRNA-His,GTG,NODE_61,NODE_61_length_551_cov_1.560538,6,79,74 bp,None,58.5,True Mitochondrial (Missing in RefSeq),100% Exact Match to C. sinensis cv. Wuyi (PZ267020.1) & Xinyang10 Complete Mitogenomes (Absent in NC_043914.1)
+tRNA-Glu,TTC,NODE_89,NODE_89_length_336_cov_0.584416,297,226,72 bp,None,60.8,True Mitochondrial (Missing in RefSeq),100% Exact Match to C. sinensis cv. Wuyi (PZ267020.1) & Xinyang10 Complete Mitogenomes (Absent in NC_043914.1)

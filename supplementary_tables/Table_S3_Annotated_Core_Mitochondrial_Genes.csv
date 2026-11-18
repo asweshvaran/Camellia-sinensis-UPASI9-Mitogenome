@@ -1,0 +1,43 @@
+Gene,Feature_Type,Annotated_in_NC043914.1,Pan_Camellia_Status,Purified_rnaSPAdes_Contig,Query_AA_Len,Subject_AA_Len,Protein_Coverage_pct,Protein_Identity_pct,NC043914_Mean_Depth,NC043914_Breadth_10x_pct,Canonical_CtoU_Edits_vs_NC043914,Reconciliation_Notes
+atp1,CDS,Yes,Conserved Core Mitogenome,NODE_19_length_3599_cov_88.319342_g11_i0,510,509,100.0%,98.43%,454.7,100.0,9,Core Mitochondrial Locus
+atp4,CDS,Yes,Conserved Core Mitogenome,NODE_5_length_4804_cov_26.900021_g3_i0,186,192,96.4%,94.05%,177.42,100.0,14,Core Mitochondrial Locus
+atp6,CDS,Yes,Conserved Core Mitogenome,NODE_38_length_1875_cov_41.835738_g21_i0,240,240,99.6%,90.80%,165.26,89.14,28,Core Mitochondrial Locus
+atp8,CDS,No (Missing/Unannotated),Conserved Core Mitogenome,NODE_25_length_2794_cov_71.603455_g14_i0,160,159,100.0%,97.48%,N/A (Unannotated in RefSeq),N/A,See Ka/Ks vs Xinyang10,Missing in NC_043914.1 RefSeq; resolved via Xinyang10/Wuyi pan-MT DB
+atp9,CDS,Yes,Conserved Core Mitogenome,NODE_34_length_2034_cov_322.212137_g4_i2,140,80,100.0%,87.50%,3825.48,100.0,12,Core Mitochondrial Locus
+ccmB,CDS,Yes,Conserved Core Mitogenome,NODE_101_length_888_cov_3.477301_g72_i0,126,206,61.2%,85.71%,27.76,100.0,31,Core Mitochondrial Locus
+ccmC,CDS,Yes,Conserved Core Mitogenome,NODE_5_length_4804_cov_26.900021_g3_i0,238,250,95.2%,86.13%,80.13,99.34,43,Core Mitochondrial Locus
+ccmFc,CDS,Yes,Conserved Core Mitogenome,NODE_73_length_1145_cov_7.445896_g45_i0,309,446,69.1%,98.05%,23.96,100.0,10,Core Mitochondrial Locus
+ccmFn,CDS,Yes,Conserved Core Mitogenome,NODE_37_length_1990_cov_17.780908_g20_i0,628,612,100.0%,95.10%,51.24,100.0,38,Core Mitochondrial Locus
+cob,CDS,Yes,Conserved Core Mitogenome,NODE_6_length_4695_cov_49.979879_g4_i0,187,393,47.3%,96.24%,136.79,100.0,20,Core Mitochondrial Locus
+cox1,CDS,No (Missing/Unannotated),Conserved Core Mitogenome,NODE_12_length_4047_cov_29.873427_g8_i0,528,527,100.0%,95.83%,N/A (Unannotated in RefSeq),N/A,See Ka/Ks vs Xinyang10,Missing in NC_043914.1 RefSeq; resolved via Xinyang10/Wuyi pan-MT DB
+cox2,CDS,Yes,Conserved Core Mitogenome,NODE_43_length_1735_cov_54.199759_g24_i0,264,263,100.0%,93.92%,193.27,100.0,18,Core Mitochondrial Locus
+cox3,CDS,No (Missing/Unannotated),Conserved Core Mitogenome,NODE_25_length_2794_cov_71.603455_g14_i0,266,265,100.0%,96.60%,N/A (Unannotated in RefSeq),N/A,See Ka/Ks vs Xinyang10,Missing in NC_043914.1 RefSeq; resolved via Xinyang10/Wuyi pan-MT DB
+matR,CDS,Yes,Conserved Core Mitogenome,NODE_30_length_2187_cov_11.959792_g1_i3,417,655,63.5%,98.56%,31.34,93.97,15,Core Mitochondrial Locus
+mttB,CDS,Yes,Conserved Core Mitogenome,NODE_35_length_2026_cov_7.382488_g19_i0,116,115,100.0%,87.83%,56.69,100.0,56,Core Mitochondrial Locus
+nad1,CDS,Yes,Conserved Core Mitogenome,NODE_4_length_5173_cov_14.071569_g1_i1,326,325,100.0%,93.54%,86.21,99.9,18,Core Mitochondrial Locus
+nad2,CDS,Yes,Conserved Core Mitogenome,NODE_47_length_1703_cov_28.782209_g17_i4,426,488,87.1%,94.35%,88.7,100.0,32,Core Mitochondrial Locus
+nad3,CDS,Yes,Conserved Core Mitogenome,NODE_18_length_3763_cov_86.502439_g4_i1,108,118,90.7%,85.98%,457.38,100.0,18,Core Mitochondrial Locus
+nad4,CDS,Yes,Conserved Core Mitogenome,NODE_10_length_4213_cov_14.580193_g2_i1,472,495,94.1%,95.92%,92.15,99.93,30,Core Mitochondrial Locus
+nad4l,CDS,Yes,Conserved Core Mitogenome,NODE_5_length_4804_cov_26.900021_g3_i0,101,100,100.0%,86.00%,195.7,100.0,15,Core Mitochondrial Locus
+nad5,CDS,Yes,Conserved Core Mitogenome,NODE_17_length_3839_cov_24.898566_g5_i1,568,670,84.6%,95.77%,93.41,99.95,30,Core Mitochondrial Locus
+nad6,CDS,Yes,Conserved Core Mitogenome,NODE_24_length_2985_cov_51.301854_g13_i0,200,205,97.6%,94.50%,209.59,97.25,17,Core Mitochondrial Locus
+nad7,CDS,No (Missing/Unannotated),Conserved Core Mitogenome,NODE_21_length_3387_cov_36.078455_g6_i2,395,394,100.0%,92.89%,N/A (Unannotated in RefSeq),N/A,See Ka/Ks vs Xinyang10,Missing in NC_043914.1 RefSeq; resolved via Xinyang10/Wuyi pan-MT DB
+nad9,CDS,No (Missing/Unannotated),Conserved Core Mitogenome,NODE_44_length_1730_cov_12.895594_g21_i1,191,190,100.0%,94.21%,N/A (Unannotated in RefSeq),N/A,See Ka/Ks vs Xinyang10,Missing in NC_043914.1 RefSeq; resolved via Xinyang10/Wuyi pan-MT DB
+rpl10,CDS,Yes,Conserved Core Mitogenome,NODE_107_length_857_cov_14.843112_g78_i0,163,162,100.0%,97.53%,55.63,100.0,7,Core Mitochondrial Locus
+rpl16,CDS,No (Missing/Unannotated),Conserved Core Mitogenome,NODE_1_length_6120_cov_44.013395_g0_i0,145,185,77.8%,96.53%,N/A (Unannotated in RefSeq),N/A,See Ka/Ks vs Xinyang10,Missing in NC_043914.1 RefSeq; resolved via Xinyang10/Wuyi pan-MT DB
+rpl2,CDS,No (Missing/Unannotated),Conserved Core Mitogenome,NODE_1_length_6120_cov_44.013395_g0_i0,336,335,100.0%,99.70%,N/A (Unannotated in RefSeq),N/A,See Ka/Ks vs Xinyang10,Missing in NC_043914.1 RefSeq; resolved via Xinyang10/Wuyi pan-MT DB
+rpl5,CDS,Yes,Conserved Core Mitogenome,NODE_6_length_4695_cov_49.979879_g4_i0,188,187,100.0%,94.12%,136.75,100.0,14,Core Mitochondrial Locus
+rps1,CDS,Yes,Conserved Core Mitogenome,NODE_51_length_1581_cov_11.487401_g29_i0,203,201,100.0%,99.00%,36.72,100.0,7,Core Mitochondrial Locus
+rps12,CDS,Yes,Conserved Core Mitogenome,NODE_18_length_3763_cov_86.502439_g4_i1,140,125,100.0%,94.40%,1005.97,100.0,7,Core Mitochondrial Locus
+rps13,CDS,Yes,Conserved Core Mitogenome,NODE_23_length_3350_cov_20.417150_g1_i2,117,116,100.0%,96.55%,44.11,100.0,0,Core Mitochondrial Locus
+rps14,CDS,Yes,Conserved Core Mitogenome,NODE_6_length_4695_cov_49.979879_g4_i0,101,100,100.0%,99.00%,151.94,100.0,1,Core Mitochondrial Locus
+rps19,CDS,No (Missing/Unannotated),Conserved Core Mitogenome,NODE_1_length_6120_cov_44.013395_g0_i0,77,76,100.0%,98.68%,N/A (Unannotated in RefSeq),N/A,See Ka/Ks vs Xinyang10,Missing in NC_043914.1 RefSeq; resolved via Xinyang10/Wuyi pan-MT DB
+rps3,CDS,No (Missing/Unannotated),Conserved Core Mitogenome,NODE_9_length_4440_cov_54.888482_g0_i1,564,563,100.0%,97.87%,N/A (Unannotated in RefSeq),N/A,See Ka/Ks vs Xinyang10,Missing in NC_043914.1 RefSeq; resolved via Xinyang10/Wuyi pan-MT DB
+rps4,CDS,No (Missing/Unannotated),Conserved Core Mitogenome,NODE_24_length_2985_cov_51.301854_g13_i0,360,348,100.0%,94.54%,N/A (Unannotated in RefSeq),N/A,See Ka/Ks vs Xinyang10,Missing in NC_043914.1 RefSeq; resolved via Xinyang10/Wuyi pan-MT DB
+rps7,CDS,Yes,Conserved Core Mitogenome,NODE_48_length_1688_cov_52.573994_g27_i0,149,148,100.0%,98.65%,38.11,100.0,2,Core Mitochondrial Locus
+sdh3,CDS,Yes,Conserved Core Mitogenome,NODE_13_length_3996_cov_52.895488_g9_i0,367,106,95.3%,91.09%,1358.0,100.0,8,Core Mitochondrial Locus
+orf100,CDS,Yes,RefSeq-Specific Hypothetical ORF,Reference-Mapped Only,NA,NA,NA,NA,51.49,100.0,0,RefSeq-annotated expressed hypothetical ORF
+orf115b,CDS,Yes,RefSeq-Specific Hypothetical ORF,Reference-Mapped Only,NA,NA,NA,NA,22.32,100.0,0,RefSeq-annotated expressed hypothetical ORF
+rps16,CDS,Yes,Conserved Core Mitogenome,Reference-Mapped Only,NA,NA,NA,NA,101.44,100.0,0,Reference-mapped core locus (divergent/pseudogenized in Xinyang10)
+rrnL,rRNA,Yes,Conserved Core Mitogenome,rRNA BLASTn (NODE_3 / NODE_11),NA,3581 nt,100.0%,99.47%,2489.61,100.0,N/A (rRNA),Core Mitochondrial 26S rRNA (0% MTPT; verified NODE_3 99.47%)
+rrnS,rRNA,Yes,Conserved Core Mitogenome,rRNA BLASTn (NODE_3 / NODE_11),NA,1117 nt,100.0%,100.0%,56403.63,100.0,N/A (rRNA),"100% MTPT Plastid-Co-Mapped (24,259.5x artifact source)"

@@ -1,0 +1,19 @@
+Parameter,Value
+SRA Run Accession,SRR9057080
+BioProject,PRJNA539837
+BioSample,SAMN11513496
+Experiment,SRX5833307
+Organism / TaxID,Camellia sinensis (TaxID: 4442)
+Cultivar / Source,"UPASI-9 (Tea Research Institute, UPASI, India)"
+Sequencing Platform,Illumina HiSeq 4000 (150 bp Paired-End)
+Library Strategy,RNA-Seq (Transcriptomic cDNA)
+Total Raw Spots,"28,395,365 spots (56,790,730 paired reads)"
+Total Raw Bases,"8,518,609,500 bp (~8.52 Gb)"
+Raw Q20 / Q30 Rates,91.36% / 83.71%
+Raw GC Content,44.98%
+Clean Reads (Post-fastp),"53,932,552 reads"
+Clean Bases (Post-fastp),"8,020,758,642 bp (~8.02 Gb)"
+Clean Q20 / Q30 Rates,92.94% / 85.52%
+Filtered Low-Quality Reads,"2,832,396 reads"
+Adapter Trimmed Reads,"3,574,270 reads"
+Duplication Rate,15.68%

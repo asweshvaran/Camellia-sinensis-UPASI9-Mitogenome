@@ -1,0 +1,282 @@
+[
+  {
+    "key": "rawal2020decoding",
+    "authors": "Rawal, H.C.; Kumar, P.M.; Bera, B.; Singh, N.K.; Mondal, T.K.",
+    "title": "Decoding and analysis of organelle genomes of Indian tea (Camellia assamica) for phylogenetic confirmation",
+    "journal_abbr": "Genomics",
+    "year": "2020",
+    "volume": "112",
+    "page": "659–668",
+    "doi": "10.1016/j.ygeno.2019.04.018"
+  },
+  {
+    "key": "li2023duntsa",
+    "authors": "Li, J.; Tang, H.; Luo, H.; Tang, J.; Zhong, N.; Xiao, L.",
+    "title": "Complete mitochondrial genome assembly and comparison of Camellia sinensis var. Assamica cv. Duntsa",
+    "journal_abbr": "Front. Plant Sci.",
+    "year": "2023",
+    "volume": "14",
+    "page": "1117002",
+    "doi": "10.3389/fpls.2023.1117002"
+  },
+  {
+    "key": "chen2025zhuyeqi",
+    "authors": "Chen, Z.; Zhou, W.; Wang, Z.; Chen, Z.; You, X.; Gong, Y.",
+    "title": "Analysis of the mitochondrial genome of the Camellia sinensis cv. ‘Zhuyeqi’: multichromosomal structure, RNA editing sites, and evolutionary characterization",
+    "journal_abbr": "Front. Plant Sci.",
+    "year": "2025",
+    "volume": "16",
+    "page": "1644130",
+    "doi": "10.3389/fpls.2025.1644130"
+  },
+  {
+    "key": "sloan2013one",
+    "authors": "Sloan, D.B.",
+    "title": "One ring to rule them all? Genome sequencing provides new insights into the ‘master circle’ model of plant mitochondrial DNA structure",
+    "journal_abbr": "New Phytol.",
+    "year": "2013",
+    "volume": "200",
+    "page": "978–985",
+    "doi": "10.1111/nph.12395"
+  },
+  {
+    "key": "gualberto2017plant",
+    "authors": "Gualberto, J.M.; Newton, K.J.",
+    "title": "Plant Mitochondrial Genomes: Dynamics and Mechanisms of Mutation",
+    "journal_abbr": "Annu. Rev. Plant Biol.",
+    "year": "2017",
+    "volume": "68",
+    "page": "225–252",
+    "doi": "10.1146/annurev-arplant-043015-112232"
+  },
+  {
+    "key": "chen2014male",
+    "authors": "Chen, L.; Liu, Y.-G.",
+    "title": "Male Sterility and Fertility Restoration in Crops",
+    "journal_abbr": "Annu. Rev. Plant Biol.",
+    "year": "2014",
+    "volume": "65",
+    "page": "579–606",
+    "doi": "10.1146/annurev-arplant-050213-040119"
+  },
+  {
+    "key": "yuan2012slg1",
+    "authors": "Yuan, H.; Liu, D.",
+    "title": "Functional disruption of the PPR protein SLG1 affects mitochondrial RNA editing, plant development, and responses to abiotic stresses in Arabidopsis",
+    "journal_abbr": "Plant J.",
+    "year": "2012",
+    "volume": "70",
+    "page": "432–444",
+    "doi": "10.1111/j.1365-313x.2012.04883.x"
+  },
+  {
+    "key": "kuhlbrandt2019atp",
+    "authors": "Kühlbrandt, W.",
+    "title": "Structure and Mechanisms of F-Type ATP Synthases",
+    "journal_abbr": "Annu. Rev. Biochem.",
+    "year": "2019",
+    "volume": "88",
+    "page": "515–549",
+    "doi": "10.1146/annurev-biochem-013118-110903"
+  },
+  {
+    "key": "ding2022drought",
+    "authors": "Ding, Z.; Jiang, C.",
+    "title": "Transcriptome Profiling to the Effects of Drought Stress on Different Propagation Modes of Tea Plant (Camellia sinensis)",
+    "journal_abbr": "Front. Genet.",
+    "year": "2022",
+    "volume": "13",
+    "page": "907026",
+    "doi": "10.3389/fgene.2022.907026"
+  },
+  {
+    "key": "chen2018fastp",
+    "authors": "Chen, S.; Zhou, Y.; Chen, Y.; Gu, J.",
+    "title": "fastp: an ultra-fast all-in-one FASTQ preprocessor",
+    "journal_abbr": "Bioinformatics",
+    "year": "2018",
+    "volume": "34",
+    "page": "i884–i890",
+    "doi": "10.1093/bioinformatics/bty560"
+  },
+  {
+    "key": "li2009bwa",
+    "authors": "Li, H.; Durbin, R.",
+    "title": "Fast and accurate short read alignment with Burrows–Wheeler transform",
+    "journal_abbr": "Bioinformatics",
+    "year": "2009",
+    "volume": "25",
+    "page": "1754–1760",
+    "doi": "10.1093/bioinformatics/btp324"
+  },
+  {
+    "key": "danecek2021samtools",
+    "authors": "Danecek, P.; Bonfield, J.K.; Liddle, J.; Marshall, J.; Ohan, V.; Pollard, M.O.; Whitwham, A.; Keane, T.; McCarthy, S.A.; Davies, R.M.; et al.",
+    "title": "Twelve years of SAMtools and BCFtools",
+    "journal_abbr": "GigaScience",
+    "year": "2021",
+    "volume": "10",
+    "page": "giab008",
+    "doi": "10.1093/gigascience/giab008"
+  },
+  {
+    "key": "jin2020getorganelle",
+    "authors": "Jin, J.-J.; Yu, W.-B.; Yang, J.-B.; Song, Y.; dePamphilis, C.W.; Yi, T.-S.; Li, D.-Z.",
+    "title": "GetOrganelle: a fast and versatile toolkit for accurate de novo assembly of organelle genomes",
+    "journal_abbr": "Genome Biol.",
+    "year": "2020",
+    "volume": "21",
+    "page": "241",
+    "doi": "10.1186/s13059-020-02154-5"
+  },
+  {
+    "key": "bankevich2012spades",
+    "authors": "Bankevich, A.; Nurk, S.; Antipov, D.; Gurevich, A.A.; Dvorkin, M.; Kulikov, A.S.; Lesin, V.M.; Nikolenko, S.I.; Pham, S.; Prjibelski, A.D.; et al.",
+    "title": "SPAdes: A New Genome Assembly Algorithm and Its Applications to Single-Cell Sequencing",
+    "journal_abbr": "J. Comput. Biol.",
+    "year": "2012",
+    "volume": "19",
+    "page": "455–477",
+    "doi": "10.1089/cmb.2012.0021"
+  },
+  {
+    "key": "hyatt2010prodigal",
+    "authors": "Hyatt, D.; Chen, G.-L.; LoCascio, P.F.; Land, M.L.; Larimer, F.W.; Hauser, L.J.",
+    "title": "Prodigal: prokaryotic gene recognition and translation initiation site identification",
+    "journal_abbr": "BMC Bioinform.",
+    "year": "2010",
+    "volume": "11",
+    "page": "119",
+    "doi": "10.1186/1471-2105-11-119"
+  },
+  {
+    "key": "chan2021trnascan",
+    "authors": "Chan, P.P.; Lin, B.Y.; Mak, A.J.; Lowe, T.M.",
+    "title": "tRNAscan-SE 2.0: improved detection and functional classification of transfer RNA genes",
+    "journal_abbr": "Nucleic Acids Res.",
+    "year": "2021",
+    "volume": "49",
+    "page": "9077–9096",
+    "doi": "10.1093/nar/gkab688"
+  },
+  {
+    "key": "marcais2018mummer4",
+    "authors": "Marçais, G.; Delcher, A.L.; Phillippy, A.M.; Coston, R.; Salzberg, S.L.; Zimin, A.",
+    "title": "MUMmer4: A fast and versatile genome alignment system",
+    "journal_abbr": "PLoS Comput. Biol.",
+    "year": "2018",
+    "volume": "14",
+    "page": "e1005944",
+    "doi": "10.1371/journal.pcbi.1005944"
+  },
+  {
+    "key": "lin2023esmfold",
+    "authors": "Lin, Z.; Akin, H.; Rao, R.; Hie, B.; Zhu, Z.; Lu, W.; Smetanin, N.; Verkuil, R.; Kabeli, O.; Shmueli, Y.; et al.",
+    "title": "Evolutionary-scale prediction of atomic-level protein structure with a language model",
+    "journal_abbr": "Science",
+    "year": "2023",
+    "volume": "379",
+    "page": "1123–1130",
+    "doi": "10.1126/science.ade2574"
+  },
+  {
+    "key": "nei1986simple",
+    "authors": "Nei, M.; Gojobori, T.",
+    "title": "Simple methods for estimating the numbers of synonymous and nonsynonymous nucleotide substitutions",
+    "journal_abbr": "Mol. Biol. Evol.",
+    "year": "1986",
+    "volume": "3",
+    "page": "418–426",
+    "doi": "10.1093/oxfordjournals.molbev.a040410"
+  },
+  {
+    "key": "cock2009biopython",
+    "authors": "Cock, P.J.A.; Antao, T.; Chang, J.T.; Chapman, B.A.; Cox, C.J.; Dalke, A.; Friedberg, I.; Hamelryck, T.; Kauff, F.; Wilczynski, B.; et al.",
+    "title": "Biopython: freely available Python tools for computational molecular biology and bioinformatics",
+    "journal_abbr": "Bioinformatics",
+    "year": "2009",
+    "volume": "25",
+    "page": "1422–1423",
+    "doi": "10.1093/bioinformatics/btp163"
+  },
+  {
+    "key": "christensen2013plant",
+    "authors": "Christensen, A.C.",
+    "title": "Plant Mitochondrial Genome Evolution Can Be Explained by DNA Repair Mechanisms",
+    "journal_abbr": "Genome Biol. Evol.",
+    "year": "2013",
+    "volume": "5",
+    "page": "1079–1086",
+    "doi": "10.1093/gbe/evt069"
+  },
+  {
+    "key": "zhang2026short",
+    "authors": "Zhang, F.; Gao, L.-Z.",
+    "title": "Short repeats drive mitochondrial genome expansion and record hybridization in Camellia",
+    "journal_abbr": "bioRxiv",
+    "year": "2026",
+    "volume": "",
+    "page": "2026.03.16.711854",
+    "doi": "10.64898/2026.03.16.711854"
+  },
+  {
+    "key": "gonzalezduran2026paternal",
+    "authors": "Gonzalez-Duran, E.; Liang, Z.; Forner, J.; Kleinschmidt, D.; Wang, W.; Jiang, L.; Chung, K.P.; Bock, R.",
+    "title": "High-frequency biparental inheritance of plant mitochondria upon chilling stress and loss of a genome-degrading nuclease",
+    "journal_abbr": "Nat. Plants",
+    "year": "2026",
+    "volume": "12",
+    "page": "571–582",
+    "doi": "10.1038/s41477-026-02242-7"
+  },
+  {
+    "key": "jacoby2012role",
+    "authors": "Jacoby, R.P.; Li, L.; Huang, S.; Pong Lee, C.; Millar, A.H.; Taylor, N.L.",
+    "title": "Mitochondrial Composition, Function and Stress Response in Plants",
+    "journal_abbr": "J. Integr. Plant Biol.",
+    "year": "2012",
+    "volume": "54",
+    "page": "887–906",
+    "doi": "10.1111/j.1744-7909.2012.01177.x"
+  },
+  {
+    "key": "sweetlove2010tca",
+    "authors": "Sweetlove, L.J.; Beard, K.F.M.; Nunes-Nesi, A.; Fernie, A.R.; Ratcliffe, R.G.",
+    "title": "Not just a circle: flux modes in the plant TCA cycle",
+    "journal_abbr": "Trends Plant Sci.",
+    "year": "2010",
+    "volume": "15",
+    "page": "462–470",
+    "doi": "10.1016/j.tplants.2010.05.006"
+  },
+  {
+    "key": "li2024procypris",
+    "authors": "Li, Z.; Han, Y.; Li, Y.; Wu, W.; Lei, J.; Wang, D.; Lin, Y.; Wang, X.",
+    "title": "Whole Mitochondrial Genome Sequencing and Phylogenetic Tree Construction for Procypris mera (Lin 1933)",
+    "journal_abbr": "Animals",
+    "year": "2024",
+    "volume": "14",
+    "page": "2672",
+    "doi": "10.3390/ani14182672"
+  },
+  {
+    "key": "chen2024carya",
+    "authors": "Chen, Y.; Wang, W.; Zhang, S.; Zhao, Y.; Feng, L.; Zhu, C.",
+    "title": "Assembly and analysis of the complete mitochondrial genome of Carya illinoinensis to provide insights into the conserved sequences of tRNA genes",
+    "journal_abbr": "Sci. Rep.",
+    "year": "2024",
+    "volume": "14",
+    "page": "28571",
+    "doi": "10.1038/s41598-024-75324-1"
+  },
+  {
+    "key": "minh2020iqtree2",
+    "authors": "Minh, B.Q.; Schmidt, H.A.; Chernomor, O.; Schrempf, D.; Woodhams, M.D.; von Haeseler, A.; Lanfear, R.",
+    "title": "IQ-TREE 2: New Models and Efficient Methods for Phylogenetic Inference in the Genomic Era",
+    "journal_abbr": "Mol. Biol. Evol.",
+    "year": "2020",
+    "volume": "37",
+    "page": "1530–1534",
+    "doi": "10.1093/molbev/msaa015"
+  }
+]
